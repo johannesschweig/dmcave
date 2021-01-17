@@ -23,3 +23,6 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 gem "webrick", "~> 1.7"
+
+
+ruby "3.0.0"
