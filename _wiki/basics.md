@@ -117,8 +117,18 @@ Schatz original mapping
 | Hut                           |       0,5 | 1 TT    |
 | Satteltaschen                 |         5 | 18 KL   |
 | Waffengürtel                  |       0,5 | 1 TT    |
+| Heuballen 1m3 (reicht 1 Tag)  |         5 | 2 KL    |
+| Wasserfass (10l)              |        10 | 2 KL    |
 
 ## Kräutersammlung
+| Kraut | Seltenheit | Wirkung |
+| ----- | ---------- | ------- |
+| Butterblume | Häufig | Leicht aktivierende Wirkung als Tee (Stoppt Müdigkeitsmali bis -2 für eine Stunde) |
+| Einbeere | Mittel | Stellt magische Kraft wieder her (+2 MP) |
+| Filzige Pestwurz | Mittel | Treibt Geister aus ihrem Versteck bei Verbrennung |
+| Mäusedorn | Selten | Wirkt stark abführend in zerriebener Form |
+| Wundklee | Häufig | Erhöht bei Anwendung die natürliche Regeneration des Körpers |
+
 - Augentrost
 - Beinwell
 - Blutwurz
