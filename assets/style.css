@@ -1,0 +1,19 @@
+:root {
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #ccc;
+  padding: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: #385e96;
+}
+
+a:hover {
+  color: hsl(216, 46%, 60%);
+}
