@@ -11,3 +11,6 @@ collections:
   wiki:
     output: true
     permalink: /:collection/:path/
+
+# heroku export
+exclude: ['vendor']
