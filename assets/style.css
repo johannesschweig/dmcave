@@ -9,6 +9,7 @@ nav {
   padding: 8px;
 }
 
+/* Link colors */
 a {
   text-decoration: none;
   color: #385e96;
@@ -16,4 +17,35 @@ a {
 
 a:hover {
   color: hsl(216, 46%, 60%);
+}
+
+/* table */
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 4px 8px;
+}
+
+th {
+  text-align: left;
+}
+
+/* Headings */
+h1 {
+  font-size: 48px;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+h3 {
+  font-size: 24px;
 }
