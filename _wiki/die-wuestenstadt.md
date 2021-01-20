@@ -83,3 +83,10 @@ title:  "Die Wüstenstadt"
 
 - Leibgarde: ❤️ 45 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 5
 - Stadtwache: ❤️ 30 / Initiative 0 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 4
+
+## Reflektion
+- kleine Details machen es aus (Tote in Wirtshaus haben noch ihr Geld)
+  - aber auch "Woran ist die Frau im Keller gestorben?"
+- Orientierung muss sichergestellt werden
+- Kampfausrichtung eines SCs bemisst sich hauptsächlich am Beruf (Krieger > Dieb/Waldläufer/Priester > Barde/Schamane > Zauberer)
+- Schleuder ist mit -2 im Kampf zu schwach. Macht eigentlich nur -1.
