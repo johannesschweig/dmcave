@@ -12,6 +12,7 @@ type: quest
 ## Charactere
 ### Marik
 - Alt, Vater von 4 Kindern (Aralt, Balin, Cram, Dewi)
+- gastfreundlich
 - baut Dattelpalmen (hoch), Feigen (mittel) und Weizen (unten) an
 
 ### Khamul
@@ -20,6 +21,10 @@ type: quest
 - Hofft auf gute Reliquienschätze, die er den SCs abkaufen will
 - Feilschen: Rang 1 (=9)
 - Geld: 3 GF
+- Verkauft auch Kanülen für Gift 1 TT
+
+### Egon
+- schenkt den Kindern von Marik jedes Jahr eine selbstgeschnitzte Figur
 
 ## Kreaturen
 - Skelett: ❤️ 8 / Initiative 1 / Kampfbonus 2 / 🛡️ 5 / 🗡️ 0 / SG 2 / Rostiges Schwert
