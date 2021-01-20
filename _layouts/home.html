@@ -3,26 +3,47 @@ layout: default
 ---
 
 <div class="home">
-  {{content}}
+  
+  <h1>DM Cave</h1>
+  <h2>Quests</h2>
 
   {%- if site.wiki.size > 0 -%}
     <ul class="page-list">
       {%- for page in site.wiki -%}
+      {%- if page.type == "quest" -%}
       <li>
         <a class="page-link" href="{{ page.url | relative_url }}">
           {{ page.title | escape }}
         </a>
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
   {%- endif -%}
 
-  <p>Weiterführende Links:
-    <ul>
+  <h2>Weltmechaniken</h2>
+  {%- if site.wiki.size > 0 -%}
+    <ul class="page-list">
+      {%- for page in site.wiki -%}
+      {%- if page.type == "world" -%}
       <li>
-        <a href='https://arboretum360.herokuapp.com/'>Arboretum Kreaturenersteller</a>
+        <a class="page-link" href="{{ page.url | relative_url }}">
+          {{ page.title | escape }}
+        </a>
       </li>
+      {%- endif -%}
+      {%- endfor -%}
     </ul>
-  </p>
+  {%- endif -%}
+
+  <h2>Links</h2>
+  <ul>
+    <li>
+      <a href='https://arboretum360.herokuapp.com/'>Arboretum Kreaturenersteller</a>
+    </li>
+    <li>
+      <a href='http://www.madmaik.de/download/rpgnamen.pdf'>Namensliste</a>
+    </li>
+  </ul>
 
 </div>

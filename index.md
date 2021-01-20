@@ -5,6 +5,3 @@
 layout: home
 title: Home
 ---
-
-# DM Cave
-List of all pages

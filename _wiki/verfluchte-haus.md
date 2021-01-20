@@ -1,32 +1,37 @@
 ---
 layout: wiki
 title:  "Das verfluchte Haus"
+type: quest
 ---
 
-# Das verfluchte Haus
 ## SG
 - Geist SG 4
 - Erlösung SG 1
 - Pestwurz selbst finden SG 1
 - Drogenopfer SG2+1
+
 ## Backstory
 - Vor 20 Jahren zeugte der Verwalter Ernesto mit einer seiner Mägde ein uneheliches Kind. Um dies zu vertuschen schickte er die schwangere Frau auf eine kleine Hütte kurz vorm Waldrand. Er versorgte sie lange heimlich. Als die Mutter eines natürlichen Todes starb (vor 10 Jahren), stürzte sich die junge Tochter in den Brunnen und sucht dieser Tage das Haus heim.
 - Valerius der Tuchhändler hat das Haus letzten Sommer von Ernesto gekauft (100GF) und versucht nun die Geister los zu werden. Er verspricht den Helden 20 Goldfalken insgesamt um den Geist zu vertreiben.
 - Seit das Haus leer steht, verkaufen und konsumieren junge Dorfbewohner aus der Umgebung hier Mondstaub (+2 INI für 6h, -1 am nächsten Tag)
+
 ## Ablauf
 ### Anschlagsbrett
 - Die Helden finden auf dem Anschlagsbrett vor dem Brandkessel folgende Nachrichten (aber koennen sie sie auch lesen?):
     - "Leunnand, du bist ein verdammter Halsabschneider! Ich hoffe, die Pest holt deine Brut."
     - "Geisterjaeger gesucht - Nichts für schwache Nerven - Große Belohnung - Bei Valerius im Brandkessel melden"
     - "Neues Wundermittel gegen Schlafstörungen: Die magischen Tannenzapfen von Bokter. Einfach in die Ohren stecken und ihr schlaft wie kleine Kinder. Heute nur unglaubliche 2KL. Meldet euch bei Bokter"
+
 ### Gespraech mit Valerius
 - "Ja, in der Tat, ich habe das ausgehngt. Ich habe diese Huette letzten Sommer als moeglichen Alterssitz erworben. Aber als ich eine Nacht dort geschlafen habe, schluchzte und wimmerte es fürchterlichst aus dem alten Brunnen. Ich habe versucht ihn abzudecken, aber die Dorfbewohner meinen das Haus sei schon seit Jahren verflucht. Ich habe schon alles versucht, sogar schon mehrere Dutzend von Bokters Tannenzapfen in den Brunnen geworfen, es hat alles nichts geholfen."
 - Feilschen (20GF): 8 + 3 (Rang 3 Haendler) = 11 / Je Erfolg +5%
+
 ### In Leet
 - MS 8 Rausfinden wer etwas von geisterjagd versteht bei Leunnand oder anderen (Flanna)
 - MS 10 Alte Frau erinnert sich an eine junge Mutter mit Kind, die da mal gewohnt hat
 - MS 14 SG 1 Alte Frau deutet Beziehung zum Verwalter an
     - Ernesto MS10 Ernesto gesteht die Geschichte und gibt eine Puppe mit
+
 ### Flanna
 - "Euch habe ich ja noch nie hier gesehen. Braucht ihr Salben fuer mehr Bartwuchs oder eine Tinktur gegen Bauchkraempfe?"
 - "Filziger Pestwurz ist gut um Geister aus ihrem Versteck zu locken. Dafür müsst ihr den Pestwurz in der Nähe des Geistes verbrennen. Allerdings ist er sehr selten. Einen getrockneten habe ich noch da. Ihr könnt aber auch euer Glück im Wald versuchen."
@@ -38,6 +43,7 @@ title:  "Das verfluchte Haus"
     - Bauchkrampftinktur 2 KL
     - Heilsalbe 10 GF Verdoppelung Genesungsrate 5 Anwendungen
     - Kleine Heilertasche 10 GF 20 Anwendungen +2 auf Wissen heilkunde
+
 ### Bokter
 - "Ich habe hier dieses alte Buch über Geisterjagd. Als ich noch jung war, wollte ich auch mal ein Abenteurer wie ihr werden. Aber vorher müsst ihr mir bei diesem Rätsel helfen, was wir Leunnand gestellt hat. Ich kann mich sonst nicht mehr im Brandkessel sehen lassen. Ihr helft mir doch oder?"
 
@@ -83,12 +89,14 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
     - Kochnische mit Herd, Mondstaubresten, alte Bierflaschen
     - Alte Truhe, neues Schloss MS 12 mit 10g Mondstaub und 30KL
 - Filziger Pestwurz in 3 km Entfernung in einem Erdloch
+
 ### Dealer / Dorfbewohner
 - Falls die SC sich laut verhalten, fliehen die beiden durch die Haustür. Falls nicht, kommt es zu einem kurzen Wortgefecht. Ronan und Finn sind überrascht und wollen möglichst schnell aus der Situation entkommen. Sobald beide weniger als 1/2 TP haben, ergeben sie sich und bieten die Hälfte ihres Geldes als Bestechung an.
 - Falls die SC über Nacht warten, wird Ronan versuchen unbemerkt ins Haus zu kommen um seine Monstaub Vorräte zu retten.
 - Dialog: "He, wer seid ihr denn? Was macht ihr hier? Verschwindet."
 - "Wir sind Reisende und haben hier kurz Halt gemacht. Wollten aber eh gerade gehen. Was ist los? Geht ihr uns mal kurz aus dem Weg?" (Lüge MS 8)
 - MS 12: Die beiden haben gerötete Augen und wirken hektisch.
+
 ### Vertreiben des Geistes
 - Der Geist des jungen Maedchens kann vertrieben (Bedingungen 2-3) oder erlöst werden (Zusätzlich Bedinung 1).
     - 1. Einen persönlichen Gegenstand beerdigen (Brief, Puppe von Ernesto)
@@ -107,17 +115,21 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
 - Wissen in Kräuterkunde und über Tiere
 - ♥ 20 / INI 0 / KB 3 / 🛡 6 / 🗡 -1 / MP 12 / Spruchl 4 / SG4 / Schatz D / Rang 4
 - Heilen / Trance / heiliger Bezirk (Manovermalus) / Unterschlupf
+
 ### Valerius
 - Tuchhändler aus Digione
-## Ronan
+
+### Ronan
 - Dealer
 - Dorfbewohner aus Leet
 - ♥ 12 / INI 0 / KB 3 / 🛡 6 / 🗡 -1 / MP 0 / Spruchl 0 / SG2 / 15 KL + Mondstaub
-## Finn
+
+### Finn (unbekannt)
 - Dorfbewohner aus Leet
 - zieht sich gern mal ein bisschen Mondstaub rein
 - ♥ 6 / INI 0 / KB 2 / 🛡 5 / 🗡 -1 / MP 0 / Spruchl 0 / SG1 / 15 KL
-## Geist
+
+### Geist
 - Geist des Maedchens
 - ♥ 20 / INI 0 / KB 2 / 🛡 8 / 🗡 -1 / MP 0 / Spruchl 0 / SG4 Koerperlos Angst 8
 

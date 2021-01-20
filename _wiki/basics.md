@@ -1,17 +1,8 @@
 ---
 layout: wiki
 title:  "Basics"
+type: world
 ---
-## Manöver
-- Routine 5
-- sehr einfach 7
-- einfach 8
-- schwer 10
-- sehr schwer 12
-- ausserst schwer 14
-- blanker leichtsinn 16
-- absurd 18
-
 ## Geld
 - Einfacher Knecht verdient 3 TT im Monat
 
@@ -121,6 +112,7 @@ Schatz original mapping
 | Wasserfass (10l)              |        10 | 2 KL    |
 
 ## Kräutersammlung
+
 | Kraut | Seltenheit | Wirkung |
 | ----- | ---------- | ------- |
 | Butterblume | Häufig | Leicht aktivierende Wirkung als Tee (Stoppt Müdigkeitsmali bis -2 für eine Stunde) |
