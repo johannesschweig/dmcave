@@ -2,12 +2,20 @@
 layout: wiki
 title:  "Die Wüstenstadt"
 type: quest
+cover: desert-city
 ---
 ## Pre
 - Pflanze muss einfacher werden
   - +2MP flexible Entfernung. Man konzentiert sich so lange, bis der Zaubernde abbricht oder etwas findet. 1km nichts, 2km nichts, 3km nichts. Willst du weiter suchen? Ok. 4km Ja.
 - Oasequest ist ungeiler als der schöne Goblinquest.
   - Preis Übernachtung und auffüllen?
+- Musik
+  - New morning, On the road, the desert, desert campfire, fight, spooky cave, wide planes
+  - big city ahead, busy city
+- Zufallsbegegnungen in der Stadt
+  - Schlecht gelaunter alter Zwergenmann Alfred MS10 für Informationen
+  - Junger Proll Togur
+  - Verträumte Elfin Lyra
 
 ## Backstory
 - In Luno wird alle 4 Jahre ein Fest zu Ehren des Gottes Varus (Krieg, Wettkampf) gefeiert. Das Fest dauert 7 Tage und schon eine Woche vorher finden sich Gaukler, Händler und Schausteller in Luno ein um ihre Waren an Schaulustige zu verkaufen.

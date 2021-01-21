@@ -3,22 +3,26 @@ layout: default
 ---
 
 <div class="home">
-  
+  <link rel="stylesheet" href="/assets/home.css">
+
   <h1>DM Cave</h1>
   <h2>Quests</h2>
 
   {%- if site.wiki.size > 0 -%}
-    <ul class="page-list">
+    <div class='card-container'>
       {%- for page in site.wiki -%}
       {%- if page.type == "quest" -%}
-      <li>
-        <a class="page-link" href="{{ page.url | relative_url }}">
-          {{ page.title | escape }}
+        <a
+          class="card"
+          href="{{ page.url | relative_url }}">
+          <img src='{{ "../assets/" | append: page.cover | append: ".jpg" }}'/>
+          <div class='darken'>
+            <div>{{ page.title | escape }}</div>
+          </div>
         </a>
-      </li>
       {%- endif -%}
       {%- endfor -%}
-    </ul>
+    </div>
   {%- endif -%}
 
   <h2>Weltmechaniken</h2>

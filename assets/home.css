@@ -1,0 +1,49 @@
+/* home page */
+body {
+  background-color: #f8f8f8;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
+}
+
+.card {
+  width: 100%;
+  height: 200px;
+  display: inline-block;
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .8;
+}
+
+
+.card > .darken {
+  position: relative;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  top: -203px;
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 30%);
+
+}
+
+.darken > div {
+  display: inline-block;
+  margin-top: 158px;
+  margin-left: 24px;
+  color: white;
+}

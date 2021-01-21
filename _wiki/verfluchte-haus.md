@@ -2,6 +2,7 @@
 layout: wiki
 title:  "Das verfluchte Haus"
 type: quest
+cover: hut
 ---
 
 ## SG

@@ -2,6 +2,7 @@
 layout: wiki
 title:  "Die Oase"
 type: quest
+cover: oasis
 ---
 
 ## Background

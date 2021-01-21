@@ -2,6 +2,7 @@
 layout: wiki
 title:  "Das überfallene Wirtshaus"
 type: quest
+cover: pub
 ---
 
 ## Todos
