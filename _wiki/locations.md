@@ -2,6 +2,7 @@
 layout: wiki
 title: "Orte"
 type: world
+cover: villages
 ---
 Diese Seite enthält Orte, die den SpielerInnen bekannt sind.
 

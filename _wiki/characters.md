@@ -2,6 +2,7 @@
 layout: wiki
 title: "Charaktere"
 type: world
+cover: warrior
 ---
 
 Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.

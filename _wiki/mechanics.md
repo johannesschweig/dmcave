@@ -2,6 +2,7 @@
 layout: wiki
 title:  "Mechaniken"
 type: world
+cover: die
 ---
 
 ## Manöver
