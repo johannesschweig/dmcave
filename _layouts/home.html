@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <link rel="stylesheet" href="/assets/home.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
 
   <h1>DM Cave</h1>
   <h2>Quests</h2>
@@ -15,7 +15,7 @@ layout: default
         <a
           class="card"
           href="{{ page.url | relative_url }}">
-          <img src='{{ "../assets/" | append: page.cover | append: ".jpg" }}'/>
+          <img src='{{ "../assets/cards/" | append: page.cover | append: ".jpg" }}'/>
           <div class='darken'>
             <div>{{ page.title | escape }}</div>
           </div>
@@ -33,7 +33,7 @@ layout: default
       <a
           class="card"
           href="{{ page.url | relative_url }}">
-          <img src='{{ "../assets/" | append: page.cover | append: ".jpg" }}'/>
+          <img src='{{ "../assets/cards/" | append: page.cover | append: ".jpg" }}'/>
           <div class='darken'>
             <div>{{ page.title | escape }}</div>
           </div>

@@ -10,11 +10,14 @@ cover: oasis
 - Jüngstes Kind Dewi ist seit vorgestern verschwunden. Westlich von der Oase befinden sich 4 Riesenskorpione vor einer Gruft
 - Gruft: 2 Räume mit je einem Skelett und ein Hauptraum mit Skelettfürst
 
+![Oase](/assets/wiki/oase.jpeg)
 ## Charactere
 ### Marik
 - Alt, Vater von 4 Kindern (Aralt, Balin, Cram, Dewi)
 - gastfreundlich
 - baut Dattelpalmen (hoch), Feigen (mittel) und Weizen (unten) an
+- 2 Ziegen
+- Übernachtung und Frühstück frei (oder 1 KL jeder?)
 
 ### Khamul
 - (Trödel-)Händler mit Kamel

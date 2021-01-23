@@ -8,14 +8,16 @@ cover: desert-city
 - Pflanze muss einfacher werden
   - +2MP flexible Entfernung. Man konzentiert sich so lange, bis der Zaubernde abbricht oder etwas findet. 1km nichts, 2km nichts, 3km nichts. Willst du weiter suchen? Ok. 4km Ja.
 - Oasequest ist ungeiler als der schöne Goblinquest.
-  - Preis Übernachtung und auffüllen?
 - Musik
   - New morning, On the road, the desert, desert campfire, fight, spooky cave, wide planes
   - big city ahead, busy city
+  - https://mynoise.net/
 - Zufallsbegegnungen in der Stadt
   - Schlecht gelaunter alter Zwergenmann Alfred MS10 für Informationen
   - Junger Proll Togur
   - Verträumte Elfin Lyra
+
+![Weg](/assets/wiki/wueste.jpeg)
 
 ## Backstory
 - In Luno wird alle 4 Jahre ein Fest zu Ehren des Gottes Varus (Krieg, Wettkampf) gefeiert. Das Fest dauert 7 Tage und schon eine Woche vorher finden sich Gaukler, Händler und Schausteller in Luno ein um ihre Waren an Schaulustige zu verkaufen.
@@ -44,6 +46,8 @@ cover: desert-city
 - [Der verlorene Goblin](../verlorene-goblin)
 
 ## Kapitel 3: Luno
+![Stadt](/assets/wiki/luno.jpeg)
+
 - 300k Einwohner
 - Brunnen in der Stadt stinken und nur die Armen trinken daraus MS 8, ob man Durchfall bekommt. Dann 6 bzw. 8L Wasser am Tag. (oder Malus??)
 - Arena (siehe Ort: Arena)
