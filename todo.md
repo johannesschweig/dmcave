@@ -1,4 +1,6 @@
 # TODO
+- favicon
+
 ## Ideas
 - left side navigation of hierarchy on wiki page
   - collapsible on mobile
