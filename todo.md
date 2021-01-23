@@ -1,6 +1,5 @@
 # TODO
 ## Ideas
-- look for nice hero images
 - left side navigation of hierarchy on wiki page
   - collapsible on mobile
 - page title on nav (?)
@@ -16,3 +15,7 @@
   - Cards instead of list with images
 
 ## Problems
+
+# Done
+- look for nice hero images
+- home page displays weird on mobile
