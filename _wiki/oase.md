@@ -8,7 +8,6 @@ cover: oasis
 ## Background
 - Alter Mann (Marik) mit Familie (vier Kinder)
 - Jüngstes Kind Dewi ist seit vorgestern verschwunden. Westlich von der Oase befinden sich 4 Riesenskorpione vor einer Gruft
-- Gruft: 2 Räume mit je einem Skelett und ein Hauptraum mit Skelettfürst
 
 ![Oase](/assets/wiki/oase.jpeg)
 ## Charactere
@@ -30,9 +29,22 @@ cover: oasis
 ### Egon
 - schenkt den Kindern von Marik jedes Jahr eine selbstgeschnitzte Figur
 
+## Gruft
+- Gruft: 2 bis 4 Räume mit je einem Skelett und ein Hauptraum mit Skelettfürst
+- Im Hauptraum ein Sakrophag mit Truhe (MS 14)
+- Schlüssel hat der Skelettfürst
+- Schatz abhängig von SG der getöteten Gegner in alten Münzen aus Silber (entspricht 1 TT)
+  - Skelette (stark) x 1 TT
+  - Skelettfürst (stark) 10GF
+  - + 4 TT
+
+
 ## Kreaturen
 - Skelett: ❤️ 8 / Initiative 1 / Kampfbonus 2 / 🛡️ 5 / 🗡️ 0 / SG 2 / Rostiges Schwert
 - Skelettfürst:  ❤️ 30 / Initiative 0 / Kampfbonus 4 / 🛡️ 7 / 🗡️ 0 / SG 4 / Speer / Bernstein
+- Skelett (stark): ❤️ 20 / Initiative 1 / Kampfbonus 4 / 🛡️ 6 / 🗡️ 1 / Zauberresistenz 1 / SG 4 / 1 TT
+- Skelettfürst (stark): ❤️ 45 / Initiative 2 / Kampfbonus 4 / 🛡️ 7 / 🗡️ 2 / Zauberresistenz 1 / Angst 1 / SG 6 / 20GF
+
 
 - riesenskorpion: ❤️ 16 / initiative 0 / kampfbonus 2 / 🛡️ 6 / 🗡️ 0 / gift 1 / sg 3
   - behäbig
@@ -41,4 +53,3 @@ cover: oasis
   - gift verursacht 1/3 tp schaden pro runde/stunde; wenn man sich nicht bewegt, nur pro tag. das gift klingt nach 4 Ticks oder 6 Stunden ab.
   - gift lässt sich aus dem stachel des schwarzen skorpions gewinnen. Aber man muss wissen, wie man den Skorpion richtig agitiert, um an das Gift zu kommen.
 - geier: ❤️ 12 / initiative 1 / kampfbonus 2 / 🛡️ 6 / 🗡️ 0 / fliegend / sg 3 
-
