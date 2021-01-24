@@ -1,0 +1,21 @@
+---
+layout: wiki
+---
+<div>
+  <table>
+    <tr>
+      <th> Spruchliste </th>
+      <th> Rang </th>
+      <th> Spruch </th>
+      <th> Beschreibung </th>
+    </tr>
+  {% for spell in site.data.spells %}
+    <tr>
+       <td> {{ spell.liste }} </td>
+       <td> {{ spell.rang }} </td>
+       <td> {{ spell.spruch }} </td>
+       <td> {{ spell.beschreibung }} </td>
+    </tr>
+  {% endfor %}
+  </table>
+</div>

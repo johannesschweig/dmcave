@@ -16,6 +16,7 @@ cover: desert-city
   - Schlecht gelaunter alter Zwergenmann Alfred MS10 für Informationen
   - Junger Proll Togur
   - Verträumte Elfin Lyra
+- Das Amulett: TODO
 
 ![Weg](/assets/wiki/wueste.jpeg)
 
@@ -49,7 +50,7 @@ cover: desert-city
 ![Stadt](/assets/wiki/luno.jpeg)
 
 - 300k Einwohner
-- Brunnen in der Stadt stinken und nur die Armen trinken daraus MS 8, ob man Durchfall bekommt. Dann 6 bzw. 8L Wasser am Tag. (oder Malus??)
+- Stadttor (Kontrolle, siehe Ort: Stadttor)
 - Arena (siehe Ort: Arena)
 - Basar (abends Party)
   - Waffenhändler
@@ -63,6 +64,22 @@ cover: desert-city
   - Bettler
   - Pate
     - bietet SC einen Auftragsmord an
+- Drogenproblem: Luno war schon immer eine sehr entspannte Stadt. Viele unterschiedliche Nationalitäten sorgten dafür, dass Regeln eher locker genommen wurden. Zum Varusfest werden auch allerhand Substanzen konsumiert (z.B. Mondstaub). Irgendwann wurde es allerdings den Priestern im Tempel zu bunt, nachdem jemand in einer Messe laut unter Drogeneinfluss laut rumkrakelte. Auch die Stadtwache beschwerte sich über die Zunahme von Beschaffungskriminalität und dunklen Gestalten, die sich in der Stadt breitmachten. Dadurch war der Stadthalter von Luno gezwungen mehr Kontrollen durchzuführen und besonders im Rahmen des Varusfestes (zumindest zu Beginn) mehr zu kontrollieren.
+
+## Ort: Stadttor
+- Einlasskontrolle (siehe Lunos Drogenproblem)
+- 3 Stadtwachen SG 4
+- 1 Wachhauptmann (wie Leibgarde)
+- 2 Novizenmagier
+- Novizenmagier wirken Erkenntnis (Rang 3) auf die Pferdewagen, die in die Stadt wollen, um Mondstaub zu finden
+- Novizenmagier spürt die magische Kraft des Amuletts und fragt die SCs, was es ist und verweist sie an Rengaru/Zaubershop
+- Wenn Mondstaub gefunden wird, wird die Person eingebuchtet oder gegen Zahlung von 10GF freigelassen
+
+## Ort: Zaubershop
+- Rengaru
+- alter, zauseliger Mann
+- manchmal Demenzattacken ("Wer seid ihr?")
+- Interessiert sich mehr für Geschichte als für Zauberartefakte
 
 ## Ort: Arena 
 - Arenameister mit Liste der Disziplinen
@@ -92,3 +109,4 @@ cover: desert-city
 ## Kreaturen
 - Leibgarde: ❤️ 45 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 5
 - Stadtwache: ❤️ 30 / Initiative 0 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 4
+- Novizenmagier: ❤️ 30 / Initiative 0 / Kampfbonus 2 / 🛡️ 5 / 🗡️ -1 / Magiepunkte 20 / Spruchliste 4 Weiße Magie / Stab / SG 5
