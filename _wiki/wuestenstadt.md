@@ -5,18 +5,15 @@ type: quest
 cover: desert-city
 ---
 ## Pre
-- Pflanze muss einfacher werden
-  - +2MP flexible Entfernung. Man konzentiert sich so lange, bis der Zaubernde abbricht oder etwas findet. 1km nichts, 2km nichts, 3km nichts. Willst du weiter suchen? Ok. 4km Ja.
-- Oasequest ist ungeiler als der schöne Goblinquest.
-- Musik
-  - New morning, On the road, the desert, desert campfire, fight, spooky cave, wide planes
-  - big city ahead, busy city
-  - https://mynoise.net/
+- Weiterer Dungeon
+- Fallendungeon
 - Zufallsbegegnungen in der Stadt
   - Schlecht gelaunter alter Zwergenmann Alfred MS10 für Informationen
   - Junger Proll Togur
   - Verträumte Elfin Lyra
 - Das Amulett: TODO
+- Waffenhändler für Munition für Farascha und Lasagne
+- Menschlicher Schädel 2kg
 
 ![Weg](/assets/wiki/wueste.jpeg)
 
@@ -89,6 +86,7 @@ cover: desert-city
 - Disziplinen
   - Gruppe: 5vs5 Kampf, Kampf gegen wildes Tier
   - Einzel: Bogenschießen-Einzel, Armbrust-Einzel, Schwertkampf, Faustkampf
+  - Fun: Riesenskorpionrodeo
 - Manipulationen: Waffen stehlen, Vergiften, Leute gegeneinander aufwiegeln
 
 ## Auftragsmord

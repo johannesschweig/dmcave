@@ -11,6 +11,8 @@ cover: quill
 ## SC
 ### TrinkFest
 - Ronan verhauen/töten
+- ungewöhnliche Reittiere/Rodeo
+- Trophäenjäger
 
 ### Farascha
 - Einen Tierfreund finden (Rotkehlchen)
@@ -21,6 +23,8 @@ cover: quill
 ### Lasagne
 - Leute hintergehen
 - Die kriminellen Verbindungen von Ronan nutzen
+- Rausfinden, ob im Geisterbuch was sinnvolles drin steht (Geisterquest)
 
 ### KlickKlack
-- ?
+- Rüstung aus Chitinpanzer bauen
+- In Probleme wegen Mondstaub geraten

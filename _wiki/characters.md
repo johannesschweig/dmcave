@@ -53,10 +53,15 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - hat sich in Leet einen Feriensitz gekauft
 - Quests: [Das verfluchte Haus](../verfluchte-haus)
 
-## Trion
+## Wüste
 ### Egon
 - Gaukler und Händler von Kunsthandwerk aus Holz
 - aus Stolkograd an der Küste
 - Verpeilt, aber gutmütig
 - Hat einen Bruder mit gebrochenem Fuß
 - Questreihe: [Die Wüstenstadt](../wuestenstadt)
+
+### Marik
+- lebt in der Oase
+- dankbar, dass die SC seinen Sohn gerettet haben
+- Questreihe: [Die Oase](../oase)

@@ -45,3 +45,6 @@ Die Goblins wohnen in einem aus Kakteen zusammengebauten "Zelt". Der Eingang ist
   - gift lässt sich aus dem stachel des schwarzen skorpions gewinnen
 - geier: ❤️ 12 / initiative 1 / kampfbonus 2 / 🛡️ 6 / 🗡️ 0 / fliegend / sg 3 
 
+## Learnings
+- Zu wenig Hints für die SCs, wie sie das Zuhause des Goblins finden sollen
+  - Hugo sollte ihnen positiv eingestellt sein

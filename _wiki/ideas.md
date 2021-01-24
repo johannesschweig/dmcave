@@ -5,6 +5,15 @@ type: quest
 cover: ideas
 ---
 
+## Orte
+- Hügelgrab (Kelten)
+- Banditensafe mit sehr vielen Fallen, aber viel Loot
+  - Fallgrube mit angespitzten Pfählen
+  - Fallstrick mit Stein/angespitzten Pfählen
+  - Unterwasserepisode (am Ende?)
+  - Druckplatten
+  - Automatische Schießscharten
+
 ## Personen / Encounter
 - Ziegen-Dorfbewohner: Ein alter Dorfbewohner beschwert sich, dass jemand seine Ziege gestohlen hat. Bei Nachfrage an Dorfbewohner (leicht) stellt sich heraus, dass sie immer noch an der Schenke steht seit gestern Nacht.
 - Ein NSC wird ohne Begründung (Putin style) festgenommen und muss befreit werden
@@ -47,9 +56,6 @@ cover: ideas
 ## Ausrüstung
 - Schaufel, Säge
 - Leicht bessere Geschosse, kleiner Schleifstein für temporären Bonus
-
-## Orte
-- Hügelgrab (Kelten)
 
 ## Kommunikation/Transport
 - Tauben

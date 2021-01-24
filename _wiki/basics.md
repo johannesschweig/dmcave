@@ -8,13 +8,16 @@ cover: armour
 - Einfacher Knecht verdient 3 TT im Monat
 
 ## Schatzwert
-- A / SG <2 / 1 KL / Knochenkamm, Knochenspange, Kristallsplitter, Knochenwürfel, Holzperlenkette, Eisenring, Eisenspange, Eisenkette, Schleuder, Lederbeutel
-- B / SG 3 / 1 TT / Bronzering, Kochtopf, Bierfass, Tierfell, Fellstiefel, Nahrung, Kartenspiel, Pfeile, Pfeilspitzen, Ledergürtel
-- C / SG 4 / 1 GF / Lederrüstung, Holzschild, Einhand-Axt, Kurzbogen, Dolch, Weinamphore, Glücksbringer, Silberring, Bernstein, Amethyst
-- D / SG 6 / 10 GF / Saphir, Rubin, Goldring, Armreif, Kettenhemd, Heilsalbe, Langschwert, Opal, Figur aus Jade, Ishcar
-- E / SG 8 / 100 GF / Heiltrank, Wieselsaft, Fistance, 2 Heiltränke, Ritterrüstung, Zieraxt, Drachenblut, Aura, Silberne Schalde, Saphir
-- F / SG 10-14 / 1.000 GF / Goldbarren, Esmarion, Fistance, Kunstvoller Helm, Diamant-Brosche, Zauberspruch, Esmarion (4), Silberbarren (10), Einfache Goldkrone, Armreif mit Stein
-- G / SG 14-18 / 10.000 GF / 3x täglich Entzünden Stab / Diamant / Diadem / Zauberstab / Mag. Ring / Mag. Schwert / Mag. Schild / Mag. Bogen / Verzierte Kroone / Mag. Stab
+
+| Schatz | SG | Geld | Beispiele |
+| ------ | -- | ---- | --------- |
+| A | SG <2 | 1 KL | Knochenkamm, Knochenspange, Kristallsplitter, Knochenwürfel, Holzperlenkette, Eisenring, Eisenspange, Eisenkette, Schleuder, Lederbeutel |
+| B | SG 3 | 1 TT | Bronzering, Kochtopf, Bierfass, Tierfell, Fellstiefel, Nahrung, Kartenspiel, Pfeile, Pfeilspitzen, Ledergürtel |
+| C | SG 4 | 1 GF | Lederrüstung, Holzschild, Einhand-Axt, Kurzbogen, Dolch, Weinamphore, Glücksbringer, Silberring, Bernstein, Amethyst |
+| D | SG 6 | 10 GF | Saphir, Rubin, Goldring, Armreif, Kettenhemd, Heilsalbe, Langschwert, Opal, Figur aus Jade, Ishcar |
+| E | SG 8 | 100 GF | Heiltrank, Wieselsaft, Fistance, 2 Heiltränke, Ritterrüstung, Zieraxt, Drachenblut, Aura, Silberne Schale, Saphir |
+| F | SG 10-14 | 1.000 GF | Goldbarren, Esmarion, Fistance, Kunstvoller Helm, Diamant-Brosche, Zauberspruch, Esmarion (4), Silberbarren (10), Einfache Goldkrone, Armreif mit Stein |
+| G | SG 14-18 | 10.000 GF | 3x täglich Entzünden Stab, Diamant, Diadem, Zauberstab, Mag. Ring, Mag. Schwert, Mag. Schild, Mag. Bogen, Verzierte Krone, Mag. Stab |
 
 Schatz original mapping
 - A <2
