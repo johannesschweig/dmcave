@@ -1,21 +1,27 @@
 ---
 layout: wiki
 ---
+
+
 <div>
-  <table>
-    <tr>
-      <th> Spruchliste </th>
-      <th> Rang </th>
-      <th> Spruch </th>
-      <th> Beschreibung </th>
-    </tr>
-  {% for spell in site.data.spells %}
-    <tr>
-       <td> {{ spell.liste }} </td>
-       <td> {{ spell.rang }} </td>
-       <td> {{ spell.spruch }} </td>
-       <td> {{ spell.beschreibung }} </td>
-    </tr>
+  {% assign lists = site.data.spells  | map: "liste" | uniq %}
+
+  {% for l in lists %}
+    <h2>{{ l }}</h2>
+    <table>
+      <tr>
+        <th> Rang </th>
+        <th> Spruch </th>
+        <th> Beschreibung </th>
+      </tr>
+      {% assign list = site.data.spells | where: "liste", l %}
+      {% for spell in list %}
+      <tr>
+        <td> {{ spell.rang }} </td>
+        <td> {{ spell.spruch }} </td>
+        <td> {{ spell.beschreibung }} </td>
+      </tr>
+    {% endfor %}
+    </table>
   {% endfor %}
-  </table>
 </div>
