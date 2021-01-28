@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title:  "Der verlorene Goblinsohn"
-type: quest
+type: sidequest
 cover: cactus
 ---
 

@@ -76,7 +76,8 @@ cover: desert-city
 - Rengaru
 - alter, zauseliger Mann
 - manchmal Demenzattacken ("Wer seid ihr?")
-- Interessiert sich mehr für Geschichte als für Zauberartefakte
+- Interessiert sich mehr für Insekten als für Zauberartefakte
+- Questline: [Skarabäus](../skarabeus.md)
 
 ## Ort: Arena 
 - Arenameister mit Liste der Disziplinen

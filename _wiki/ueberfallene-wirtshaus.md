@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title:  "Das überfallene Wirtshaus"
-type: quest
+type: sidequest
 cover: pub
 ---
 
