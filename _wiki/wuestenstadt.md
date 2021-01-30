@@ -43,12 +43,13 @@ cover: desert-city
 - [Die Oase](../oase)
 - [Der verlorene Goblin](../verlorene-goblin)
 
-## Kapitel 3: Luno
+## Kapitel 3: Arena
+- [Arena](../arena)
+
 ![Stadt](/assets/wiki/luno.jpeg)
 
 - 300k Einwohner
 - Stadttor (Kontrolle, siehe Ort: Stadttor)
-- Arena (siehe Ort: Arena)
 - Basar (abends Party)
   - Waffenhändler Bennet
     - hat alles, was so üblich ist
@@ -79,17 +80,6 @@ cover: desert-city
 - manchmal Demenzattacken ("Wer seid ihr?")
 - Interessiert sich mehr für Insekten als für Zauberartefakte
 - Questline: [Skarabäus](../skarabeus.md)
-
-## Ort: Arena 
-- Arenameister mit Liste der Disziplinen
-  - 1 TT pro Tag zum Zusehen (für Einheimische umsonst)
-  - 3 TT zum Mitmachen in einer Disziplin
-  - Preise: 2-50GF (je nach Platzierung und Schwierigkeit)
-- Disziplinen
-  - Gruppe: 5vs5 Kampf, Kampf gegen wildes Tier
-  - Einzel: Bogenschießen-Einzel, Armbrust-Einzel, Schwertkampf, Faustkampf
-  - Fun: Riesenskorpionrodeo
-- Manipulationen: Waffen stehlen, Vergiften, Leute gegeneinander aufwiegeln
 
 ## Auftragsmord
 - SC sollen wichtige Person in Loge der Arena während Vorstellung töten
