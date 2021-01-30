@@ -2,7 +2,6 @@
 layout: wiki
 title:  "Skarabäus"
 type: quest
-cover: sample
 ---
 
 ## Background: Rengaru

@@ -12,10 +12,11 @@ layout: default
     <div class='card-container'>
       {%- for page in site.wiki -%}
       {%- if page.type == "quest" -%}
+      {%- assign cover = page.cover } | default: "sample" -%}
         <a
           class="card"
           href="{{ page.url | relative_url }}">
-          <img src='{{ "../assets/cards/" | append: page.cover | append: ".jpg" }}'/>
+          <img src='{{ "../assets/cards/" | append: cover | append: ".jpg" }}'/>
           <div class='darken'>
             <div>{{ page.title | escape }}</div>
           </div>
