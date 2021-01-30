@@ -2,7 +2,7 @@
 layout: wiki
 title:  "Skarabäus"
 type: quest
-cover: beetle
+cover: sample
 ---
 
 ## Background: Rengaru
@@ -37,3 +37,11 @@ Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelge
   - jagen, was in der Mine lebt
 - Einige tote Abenteurer mit Ausrüstung zum Looten
 - In dessen Hinterlassenschaften lebt der Skarabäus
+
+## Kreaturen
+- Piercer
+- Riesenspinne
+- Basilisk (Versteinerungsblick, leichter Säureangriff)
+- Wurm
+- Maulwürfe
+- (Riesen-)Ameisen

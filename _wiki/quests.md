@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title:  "Quests"
+title:  "Characterquests"
 type: quest
 cover: quill
 ---

@@ -50,7 +50,8 @@ cover: desert-city
 - Stadttor (Kontrolle, siehe Ort: Stadttor)
 - Arena (siehe Ort: Arena)
 - Basar (abends Party)
-  - Waffenhändler
+  - Waffenhändler Bennet
+    - hat alles, was so üblich ist
   - Zaubershop
   - Arzt (Verletzungen der Leute)
   - Gaukler
@@ -109,3 +110,4 @@ cover: desert-city
 - Leibgarde: ❤️ 45 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 5
 - Stadtwache: ❤️ 30 / Initiative 0 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 4
 - Novizenmagier: ❤️ 30 / Initiative 0 / Kampfbonus 2 / 🛡️ 5 / 🗡️ -1 / Magiepunkte 20 / Spruchliste 4 Weiße Magie / Stab / SG 5
+- Mummie
