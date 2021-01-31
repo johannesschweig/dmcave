@@ -12,7 +12,6 @@ cover: desert-city
   - Junger Proll Togur
   - Verträumte Elfin Lyra
 - Das Amulett: TODO
-- Waffenhändler für Munition für Farascha und Lasagne
 - Menschlicher Schädel 2kg
 
 ![Weg](/assets/wiki/wueste.jpeg)
@@ -51,12 +50,10 @@ cover: desert-city
 - 300k Einwohner
 - Stadttor (Kontrolle, siehe Ort: Stadttor)
 - Basar (abends Party)
-  - Waffenhändler Bennet
-    - hat alles, was so üblich ist
-  - Zaubershop
-  - Arzt (Verletzungen der Leute)
-  - Gaukler
-  - Lebensmittelstände (eklige Maden etc.)
+- Zaubershop
+- Arzt (Verletzungen der Leute)
+- Gaukler
+- Lebensmittelstände (eklige Maden etc.)
 - Oberviertel
   - Reiche Leute
 - Unterstadt/Slum
@@ -74,12 +71,34 @@ cover: desert-city
 - Novizenmagier spürt die magische Kraft des Amuletts und fragt die SCs, was es ist und verweist sie an Rengaru/Zaubershop
 - Wenn Mondstaub gefunden wird, wird die Person eingebuchtet oder gegen Zahlung von 10GF freigelassen
 
+## Ort: Taverne zum tönernen Krug
+- Herta: Wirtin, freundlich, aber 
+- Pedro: Stallbursche, zurückhaltend
+- völlig ausgebucht 
+- Händler: Lennart (Schlangeneier), Gorn (Schmuck)
+- Magiestudenten 
+- Wilde Burschen: trinkfest
+
+## Ort: Schmied
+- Harod
+- sehr an Farascha interessiert
+- im Bürgerviertel nahe des Markts
+- hat alles was so üblich ist
+
 ## Ort: Zaubershop
 - Rengaru
 - alter, zauseliger Mann
 - manchmal Demenzattacken ("Wer seid ihr?")
 - Interessiert sich mehr für Insekten als für Zauberartefakte
 - Questline: [Skarabäus](../skarabeus.md)
+
+## Ort: Markt
+- Schlangeneierladen von Elvrit
+- Egons Laden
+- Kartenzelt (Glücksspiel)
+
+## Ort: Universität
+- Lehrstuhl Völkerkunde (inkl. Gnomologie) Rondalf
 
 ## Auftragsmord
 - SC sollen wichtige Person in Loge der Arena während Vorstellung töten

@@ -24,7 +24,9 @@ cover: quill
 - Leute hintergehen
 - Die kriminellen Verbindungen von Ronan nutzen
 - Rausfinden, ob im Geisterbuch was sinnvolles drin steht (Geisterquest)
+- Glücksspiele spielen/Leute abziehen
 
 ### KlickKlack
 - Rüstung aus Chitinpanzer bauen
-- In Probleme wegen Mondstaub geraten
+- Mehr über die Lore von Magie rausfinden
+- [x] In Probleme wegen Mondstaub geraten
