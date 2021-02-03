@@ -1,0 +1,32 @@
+.legend {
+  font-size: 16px;
+}
+
+.desc,
+.add {
+  margin-bottom: 12px;
+}
+
+.add {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-flow: column;
+}
+
+.black,
+.red {
+  display: inline-block;
+  padding: 4px;
+  font-size: 16px;
+}
+
+.black {
+  background-color: rgba(0, 0, 0, 0.05);
+  grid-column: 1 / 2;
+}
+
+.red {
+  background-color: rgba(255, 0, 0, 0.05);
+  color: rgb(132, 11, 11);
+  grid-column: 2 / 3;
+}

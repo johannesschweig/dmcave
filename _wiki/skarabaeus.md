@@ -26,6 +26,7 @@ Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelge
 
 ### Level 2
 - Mehr Viechzeug
+- Raum mit Gas und alter Laterne und toten Abenteurern
 - Rätsel:
   - Loren/Mechaniken
   - Unterwasserpassagen
