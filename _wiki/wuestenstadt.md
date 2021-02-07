@@ -62,6 +62,17 @@ cover: desert-city
     - bietet SC einen Auftragsmord an
 - Drogenproblem: Luno war schon immer eine sehr entspannte Stadt. Viele unterschiedliche Nationalitäten sorgten dafür, dass Regeln eher locker genommen wurden. Zum Varusfest werden auch allerhand Substanzen konsumiert (z.B. Mondstaub). Irgendwann wurde es allerdings den Priestern im Tempel zu bunt, nachdem jemand in einer Messe laut unter Drogeneinfluss laut rumkrakelte. Auch die Stadtwache beschwerte sich über die Zunahme von Beschaffungskriminalität und dunklen Gestalten, die sich in der Stadt breitmachten. Dadurch war der Stadthalter von Luno gezwungen mehr Kontrollen durchzuführen und besonders im Rahmen des Varusfestes (zumindest zu Beginn) mehr zu kontrollieren.
 
+### Fraktionen
+- Rebellen: Wurden von den ersten Siedlern aus Luno vertrieben/verdrängt. Glauben an andere Götter als das Empire (Problem mit Tempel). Agieren verdeckt im Untergrund gegen Tempel und König. Wohnen im Osten im Asir-Gebirge und bauen Dope an (Problem mit König). Wollen mehr Rechte und Vergeltung. Versorgen Stadt mit Erz (Schmied?).
+- König: In Form des Stadthalters. Laissez-faire Politik, was Drogen angeht (Problem mit Tempel). Bekämpfen Rebellen im Osten. Exekutieren rebellische Attentäter. Führen Razzien gegen Kollaborateure durch (Problem mit Rebellen).
+- Tempel: Konservative Ansichten. Rebellen sind Ungläubige (Problem mit Rebellen). 
+
+## Orte
+- Norden: Stadttor 
+- Zentral: Arena, Lazarett
+- Westen: Markt, Bürgerviertel
+- Osten: Taverne, ärmere Gegend
+
 ## Ort: Stadttor
 - Einlasskontrolle (siehe Lunos Drogenproblem)
 - 3 Stadtwachen SG 4
@@ -81,7 +92,7 @@ cover: desert-city
 
 ## Ort: Schmied
 - Harod
-- sehr an Farascha interessiert
+- sehr an Farascha interessiert (Date 20 Uhr)
 - im Bürgerviertel nahe des Markts
 - hat alles was so üblich ist
 

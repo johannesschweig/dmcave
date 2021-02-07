@@ -64,7 +64,7 @@ cover: oasis
 - geier: ❤️ 12 / initiative 1 / kampfbonus 2 / 🛡️ 6 / 🗡️ 0 / fliegend / sg 3 
 
 ## Learnings
-- 4x4GF + 6GF ist schon schwer für die Gruppe
+- 4x4SG (SG 16) + 6SG ist schon schwer für die Gruppe
 - Gift der Riesenskorpione war im Kampf kaum gefährlich
 - Fragen:
   - Blenden auch auf Skelette?

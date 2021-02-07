@@ -16,6 +16,7 @@ cover: quill
 
 ### Farascha
 - Einen Tierfreund finden (Rotkehlchen)
+- Date mit Harod (20 Uhr)
 
 ### Elfons
 - Mehr Mondstaub konsumieren
