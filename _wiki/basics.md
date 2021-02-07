@@ -125,6 +125,12 @@ Schatz original mapping
 | Mäusedorn | Selten | Wirkt stark abführend in zerriebener Form |
 | Wundklee | Häufig | Erhöht bei Anwendung die natürliche Regeneration des Körpers |
 
+Kosten:
+- Häufig: 1 KL
+- Mittel: 1 TT
+- Selten: 1 GF
+- Sehr selten: 10 GF
+
 - Augentrost
 - Beinwell
 - Blutwurz
