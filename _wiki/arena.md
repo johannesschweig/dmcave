@@ -93,9 +93,21 @@ type: quest
 
 ## Schatz
 - Runde 1: 4.4 TT, 5 rote Steine
-- Runde 2: 34 GF, 9 rote Steine
+- Runde 2: 34 GF, 9 rote Steine / 7 sexy Manöver
 - 1 roter Stein ~ 2.5 GF
 - Insgesamt: 
+
+## Sponsoring: Lennarts Schlangeneier
+- SCs werden vor und nach dem Kampf mit Schlangeneiern versorgt
+- Fahne wird geweht
+- Bandanas werden getragen (Wir haben die größten Eier(stöcke), An Ei for an Ei)
+- 20% Umsatzbeteiligung (abhängig von sexy Manövern)
+- Umsatz pro Tag: 5 TT
+  - Jedes sexy Manöver erhöht den Umsatz, um x*10%
+  - Beispiel Tag 1: 5 * 1.7 = 8.5 TT; 8.5 TT * 20% = 1.7 TT
+  - Der Basisumsatz des neuen Tags ist der 50% erhöhte Umsatz des alten Tages
+  - Beispiel Tag 2: 6.75 TT * 1.7 = 11.475; 11.475 * 20% = 2.295 TT; (Hier wären 30% auch ok für den Händler)
+- Schlangenei: 2 KL
 
 ## Riesenskorpionrodeo
 - Riesenskorpionen werden die Giftstachel abgeklemmt. Wer am längsten auf einem Skorpion bleibt, gewinnt den Preis.
@@ -115,6 +127,6 @@ type: quest
 
 ## Learning
 - Einfache Gegner (TP 10, SG 3) viel zu einfach zu besiegen mit Blenden und Druckwelle
-- Feuermechanik kam gut an
+- Feuermechanik, Sexy Manöver kamen gut an
 - Kämpfe sind langwierig und nicht besonders abwechslungsreich
   - Gegner mit viel Rüstung werden geblendet und in mühevoller Arbeit langsam erledigt

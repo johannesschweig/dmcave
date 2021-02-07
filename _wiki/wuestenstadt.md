@@ -70,7 +70,7 @@ cover: desert-city
 ## Orte
 - Norden: Stadttor 
 - Zentral: Arena, Lazarett
-- Westen: Markt, Bürgerviertel
+- Westen: Markt, Bürgerviertel, Schmied, Kräuterfrau, Kaserne
 - Osten: Taverne, ärmere Gegend
 
 ## Ort: Stadttor
@@ -102,6 +102,11 @@ cover: desert-city
 - manchmal Demenzattacken ("Wer seid ihr?")
 - Interessiert sich mehr für Insekten als für Zauberartefakte
 - Questline: [Skarabäus](../skarabeus.md)
+
+## Ort: Kräuterfrau
+- Inga, Elfe
+- führt viele Kräuter, auch die kleine Heilertasche
+- Abneigung gegen Zwerge
 
 ## Ort: Markt
 - Schlangeneierladen von Elvrit

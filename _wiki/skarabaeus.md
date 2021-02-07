@@ -12,7 +12,7 @@ Er lernte einen jungen Elfenmann (Lauron) aus einer angesehenen Lunoer Dynastie 
 Er flieht sich in das obsessive Sammeln von Insekten und lebt von seinem Vermögen aus vergangenen Tagen. Außerdem verdingt er sich als Händler von magischen Gegenständen, auch wenn er schon lange kein Interesse mehr daran hat. Seine magischen Fähigkeiten hat er völlig vergessen und kann sie nur noch als Routinefähigkeiten (Licht anmachen, etwas untersuchen) oder in starkem emotionalem Zustand (Wut) entfesseln. Er ist leicht dement. Ein Diener (Ron) vor seiner Tür erledigt die notwendigen Besorgungen und hebt ab und zu Geld von ihm von der Bank ab, um Miete u.ä. zu begleichen. Irgendwann hat er seinen richtigen Namen abgelegt (Utohl), sodass die SC an der Uni vielleicht noch Referenzen an einen ehemals großen Rektor finden. In Rengarus kleinem Haus findet sich keine Referenz mehr auf Lauron, aber vielleicht bei einem seiner Hinterlassenschaften aus vorherigen Abenteuern.
 
 ## Die Aufgabe
-- Die SCs sollen in eine nahegelegene Mine gehen, um dort den Käfer zu besorgen
+- Die SCs sollen in eine nahegelegene Mine gehen, um dort den Seidspaltenskarabäus zu besorgen
 
 ## Ort: Zaubershop
 - Vor der Tür: Diener Ron
