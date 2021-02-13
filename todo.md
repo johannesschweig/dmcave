@@ -1,8 +1,8 @@
 # TODO
+- fix links
+- good nav bar spells
 
 ## Ideas
-- left side navigation of hierarchy on wiki page
-  - collapsible on mobile
 - page title on nav (?)
 - differentiate quests into sidequests and mainquests
 - sections
@@ -19,6 +19,8 @@
 ## Problems
 
 # Done
+- left side navigation of hierarchy on wiki page
+  - collapsible on mobile
 - favicon
 - look for nice hero images
 - home page displays weird on mobile
