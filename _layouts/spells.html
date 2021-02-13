@@ -24,39 +24,32 @@ layout: wiki
   
   {% for l in lists %}
     <h2>{{ l }}</h2>
-    <table>
-      <tr>
-        <th> Rang </th>
-        <th> Spruch </th>
-        <th> Beschreibung </th>
-      </tr>
+    <div>
       {% assign list = site.data.spells | where: "liste", l %}
       {% for spell in list %}
-      <tr>
-        <td> {{ spell.rang }} </td>
-        <td>
-          <div>{{ spell.spruch }}</div>
-          <div>{{ spell.hinweise | replace: 'Gezielt', '🎯' | replace: 'Berührung', '✋' | replace: 'Sichtweite', '👁️' | replace: 'Hörweite', '🎵' | ️replace: 'Speziell', '🕸️' }}</div>
-        </td>
-        <td>
-          <div class='desc'>{{ spell.beschreibung }}</div>
-          <div class='add'>
-            {% assign blacks = spell.schwarz1 | append: '#' | append: spell.schwarz2 | append: '#' | append: spell.schwarz3 | append: '#' | append: spell.schwarz4 | append: '#' | append: spell.schwarz5 | append: '#' | split: '#' %}
-            {% assign reds = spell.rot1 | append: '#' | append: spell.rot2 | append: '#' | append: spell.rot3 | append: '#' | append: spell.rot4 | append: '#' | append: spell.rot5 | split: '#' %}
-            {% for b in blacks %}
-              {% if b %}
-                <div class='black' >{{ b | replace: 'Effekt,', '⚡' | replace: 'Dauer,', '🕑' | replace: 'Betroffen,', '💀' | replace: 'Reichweite,', '📶'}} </div>
-              {% endif %}
-            {% endfor %}
-            {% for r in reds %}
-              {% if r %}
-                <div class='red' >{{ r | replace: 'Verst,', '⬆️' | replace: 'Erw,', '💎' }} </div>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </td>
-      </tr>
+      <div>
+        <div class='spellheader'>
+          <div class='spellrank'>{{ spell.rang }}</div>
+          <span class='spellname'>{{ spell.spruch }}</span>
+          <span>{{ spell.hinweise | replace: 'Gezielt', '🎯' | replace: 'Berührung', '✋' | replace: 'Sichtweite', '👁️' | replace: 'Hörweite', '🎵' | ️replace: 'Speziell', '🕸️' }}</span>
+        </div>
+        <div class='desc'>{{ spell.beschreibung }}</div>
+        <div class='add'>
+          {% assign blacks = spell.schwarz1 | append: '#' | append: spell.schwarz2 | append: '#' | append: spell.schwarz3 | append: '#' | append: spell.schwarz4 | append: '#' | append: spell.schwarz5 | append: '#' | split: '#' %}
+          {% assign reds = spell.rot1 | append: '#' | append: spell.rot2 | append: '#' | append: spell.rot3 | append: '#' | append: spell.rot4 | append: '#' | append: spell.rot5 | split: '#' %}
+          {% for b in blacks %}
+            {% if b %}
+              <div class='black' >{{ b | replace: 'Effekt,', '⚡' | replace: 'Dauer,', '🕑' | replace: 'Betroffen,', '💀' | replace: 'Reichweite,', '📶'}} </div>
+            {% endif %}
+          {% endfor %}
+          {% for r in reds %}
+            {% if r %}
+              <div class='red' >{{ r | replace: 'Verst,', '⬆️' | replace: 'Erw,', '💎' }} </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
     {% endfor %}
-    </table>
+    </div>
   {% endfor %}
 </div>
