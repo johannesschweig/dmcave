@@ -64,8 +64,26 @@ type: quest
 - Feuerfeld: Die Arena ist in 4 Quadranten eingeteilt. An jedem Quadranten ist ein Hebel, der die diagonal gegenüberliegende Fläche in magisches Feuer hüllt. 1-2 Schaden für jeden, der darin steht. Das Feuer lodert unter der Arena und wird nur durch das Verschieben von Platten zum Vorschein gebracht. Bei Aktivierung läuft das Feuer 2 Runden, danach ist es für 2 Runden blockiert.
 - Turm: Ein Holzturm in der Mitte mit zwei Eingängen nach Westen und Osten. Kämpfer erhalten +1 auf OB/DB, wenn sie höher als der Gegner stehen. Fernkämpfer/Gezielte Sprüche erhalten +2 OB, wenn sie oben auf dem Turm sind. Der Turm bietet nur Platz für eine Person ganz oben und jeweils 2 auf den Treppen. Man kann sich oben im Turm ducken und erhält dann für diese Runde +2 DB gegen Fernangriffe/gezielte Sprüche.
 
-## Runde 2 (SG 19)
+## Runde 2 (SG 25 + Goblins)
 - 6xSG5
+- 6 Zaubererstudis von der Taverne
+- Beschwören immer mehr Goblins. Angeheuert, um in der Arena Unruhe zu stiften. Schwarzmagier hat ihnen die Beschwörung beigebracht. Ein Tumult wird ausgelöst als auch Rebellenmagier im Publikum Goblins beschwören und im Chaos einen hochrangigen Tempelvertreter Koreander töten.
+- Die Zauberlehrlinge werden im Verlauf bewusstlos geprügelt oder von einem Schutzwall geschützt.
+- Im Anschluss werden die SCs vernommen werden vom Hauptmann Dal der Miliz.
+- Der Wettkampf wird ausgesetzt, Magie wird in zukünftigen Wettkämpfen verboten sein.
+- Arenawand: 3m hoch
+- Zauberstudis
+  - Blendbrillen: +4 gegen Blenden
+  - Weiße Magie: Rang 4. 1 Schutz. 4 Erschaffung.
+  - Schwarze Magie: Rang 4. 4 Beschwörung 4+1 MP
+  - Studi: ❤️ 14 / Initiative -1 / Kampfbonus 0 / 🛡️ 5 / 🗡️ -2 / Magiepunkte 20 / Spruchliste 8 / SG 4.1 / Schatz 9 TT (C)
+  - 24 Goblins am Ende
+  - 12 rote Steine
+  - Schatz: 5.4 GF + 24 KL = 5.6 GF
+- Schwarzer Goblin (beschwört): ❤️ 8 / Initiative 0 / Kampfbonus 2 / 🛡️ 6 / 🗡️ -2 / SG 2 / Schatz 1 KL (A) / Dolch oder Schleuder
+
+## Runde 3
+- 6xSG6
 - Extrem agil
 - In der Mitte des Kampfes werden wilde Tiere (Arabischer Wolf 2xSG3) auf die Kämpfer losgelassen
 - Explodierende/Entzündbare Vasen
@@ -74,12 +92,9 @@ type: quest
 - Große rollende Steine, die man lostreten kann
 - Ein Teil lenkt ab, ein anderer muss schnell etwas aufbauen, was immensen Schaden anrichtet
 
-## Runde 3
-- 6xSG6
-- Wandlung
-
 ## Runde 4
 - 6xSG7
+- Wandlung
 
 ## Runde 5 (SG 24)
 - Riesenrhino: ❤️ 200 / Initiative 1 / Kampfbonus 6 / 🛡️ 10 / 🗡️ 3 / Zauberresistenz 6 / Regeneration 5 / SG 12.5 / Schatz 2 kGF (F)
@@ -94,8 +109,9 @@ type: quest
 ## Schatz
 - Runde 1: 4.4 TT, 5 rote Steine
 - Runde 2: 34 GF, 9 rote Steine / 7 sexy Manöver
-- 1 roter Stein ~ 2.5 GF
-- Insgesamt: 
+- Runde 3: 5.6 GF, 12 rote Steine
+- 1 roter Stein ~ 1.15 GF
+- Insgesamt: 30 GF
 
 ## Sponsoring: Lennarts Schlangeneier
 - SCs werden vor und nach dem Kampf mit Schlangeneiern versorgt
