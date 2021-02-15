@@ -43,7 +43,7 @@ cover: desert-city
 ## Kapitel 3: Arena
 - [Arena](/wiki/arena.md)
 - 300k Einwohner
-- Stadttor (Kontrolle, siehe Ort: Stadttor)
+- Stadttor (Kontrolle, siehe Stadttor)
 - Basar (abends Party)
 - Zaubershop
 - Arzt (Verletzungen der Leute)
@@ -60,7 +60,7 @@ cover: desert-city
 ### Fraktionen
 - Rebellen: Wurden von den ersten Siedlern aus Luno vertrieben/verdrängt. Glauben an andere Götter als das Empire (Problem mit Tempel). Agieren verdeckt im Untergrund gegen Tempel und König. Wohnen im Osten im Asir-Gebirge und bauen Dope an (Problem mit König). Wollen mehr Rechte und Vergeltung. Versorgen Stadt mit Erz (Schmied?).
 - König: In Form des Stadthalters. Laissez-faire Politik, was Drogen angeht (Problem mit Tempel). Bekämpfen Rebellen im Osten. Exekutieren rebellische Attentäter. Führen Razzien gegen Kollaborateure durch (Problem mit Rebellen).
-- Tempel: Konservative Ansichten. Rebellen sind Ungläubige (Problem mit Rebellen). 
+- Tempel: Konservative Ansichten. Rebellen sind Ungläubige (Problem mit Rebellen). Interne Machtkämpfe.
 
 ## Orte
 - Norden: Stadttor 
@@ -68,7 +68,7 @@ cover: desert-city
 - Westen: Markt, Bürgerviertel, Schmied, Kräuterfrau, Kaserne
 - Osten: Taverne, ärmere Gegend
 
-## Ort: Stadttor
+## Stadttor
 - Einlasskontrolle (siehe Lunos Drogenproblem)
 - 3 Stadtwachen SG 4
 - 1 Wachhauptmann (wie Leibgarde)
@@ -77,7 +77,7 @@ cover: desert-city
 - Novizenmagier spürt die magische Kraft des Amuletts und fragt die SCs, was es ist und verweist sie an Rengaru/Zaubershop
 - Wenn Mondstaub gefunden wird, wird die Person eingebuchtet oder gegen Zahlung von 10GF freigelassen
 
-## Ort: Taverne zum tönernen Krug
+## Taverne zum tönernen Krug
 - Herta: Wirtin, freundlich, aber 
 - Pedro: Stallbursche, zurückhaltend
 - völlig ausgebucht 
@@ -85,10 +85,10 @@ cover: desert-city
 - Magiestudenten 
 - Wilde Burschen: trinkfest
 
-## Ort: Bar wider Vernunft
+## Bar wider Vernunft
 - Hippe Szenebar mit infusionierten Schnäpsen
 
-## Ort: Bürgerviertel
+## Bürgerviertel
 ### Schmied
 - Harod
 - sehr an Farascha interessiert (Date 20 Uhr)
@@ -110,12 +110,12 @@ cover: desert-city
 ### Juwelier
 - vornehmer Juwelier
 
-## Ort: Markt
-- Schlangeneierladen von Elvrit
+## Markt
+- Schlangeneierladen von Lennart
 - Egons Laden
 - Kartenzelt (Glücksspiel)
 
-## Ort: Universität der magischen Künste
+## Universität der magischen Künste
 - Lehrstuhl Völkerkunde (inkl. Gnomologie) Rondalf
 
 ## Auftragsmord

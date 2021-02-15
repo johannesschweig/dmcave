@@ -16,4 +16,4 @@ Diese Seite enthält Orte, die den SpielerInnen bekannt sind.
 ## Luno
 - große Wüstenstadt
 - Varusfest alle 4 Jahre
-- Quests: [Die Wüstenstadt](/wiki/wuestenstadt)
+- Quests: [Die Wüstenstadt](/wiki/wuestenstadt.md)

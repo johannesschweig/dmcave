@@ -1,5 +1,4 @@
 # TODO
-- good nav bar spells
 
 ## Ideas
 - page title on nav (?)
@@ -18,6 +17,7 @@
 ## Problems
 
 # Done
+- good nav bar spells
 - fix links
 - left side navigation of hierarchy on wiki page
   - collapsible on mobile

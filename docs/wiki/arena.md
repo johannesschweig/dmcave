@@ -3,12 +3,7 @@ layout: wiki
 title:  "Arena"
 type: quest
 ---
-## Pre
-- Mehr lore mit Egon
-- Sidequest: Harod's Brief an seine Lieferanten
-- Ausarbeiten: Wer hat den Tempelmenschen umgebracht (interne Tempelmachtkämpfe?)
-- Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
-  - consumables
+
 
 ## Ort: Arena
 - 3 stöckig mit Keller
@@ -110,11 +105,11 @@ type: quest
 - Zauberklau: Alternativer Rang 6 Zauber bei Schwarze Magie. Gezielt, Sichtweite. Zauberer versucht den letzten Essenzzauber (darf nicht mehr als 60 Minuten zurück liegen) eines Gegners zu stehlen. Falls es gelingt, kann er nun einmal diesen Zauber in den nächsten 60 Minuten anwenden. Alle Voraussetzungen beziehen sich immer noch auf den ursprunglichen Former. Es werden wieder 6 MP aufgewendet. 
 
 ## Schatz
-- Runde 1: 4.4 TT, 5 rote Steine
-- Runde 2: 34 GF, 9 rote Steine / 7 sexy Manöver
-- Runde 3: 5.6 GF, 12 rote Steine
-- 1 roter Stein ~ 1.15 GF
-- Insgesamt: 30 GF
+- Vorrunde: 4.4 TT, 5 rote Steine
+- Runde 1: 34 GF, 9 rote Steine / 7 sexy Manöver
+- Runde 2: 5.6 GF, 12 rote Steine (6 davon bei Stadtwachen)
+- Insgesamt: 40 GF, 26 rote Steine (1.5 GF jeder Stein)
+- Bonus: +20 GF
 
 ## Sponsoring: Lennarts Schlangeneier
 - SCs werden vor und nach dem Kampf mit Schlangeneiern versorgt
@@ -150,3 +145,5 @@ type: quest
 - Feuermechanik, Sexy Manöver kamen gut an
 - Kämpfe sind langwierig und nicht besonders abwechslungsreich
   - Gegner mit viel Rüstung werden geblendet und in mühevoller Arbeit langsam erledigt
+- SCs sind froh "dass mal was los ist"
+- Harod wurden Entführungsabsichten unterstellt

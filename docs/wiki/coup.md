@@ -1,0 +1,51 @@
+# Der Coup
+## Pre
+- Mehr lore mit Egon
+- Sidequest: Harod's Brief an seine Lieferanten
+- Ausarbeiten: 
+  - Tempelmachtkampf
+- Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
+  - consumables
+
+## Background
+- 6 Zaubererstudis aus der Taverne (Gruppe 14)
+- Angeheuert, um in der Arena Unruhe zu stiften. Schwarzmagier haben ihnen die Beschwörung beigebracht. Ein Tumult wird ausgelöst als auch Rebellenmagier im Publikum Goblins beschwören und im Chaos einen hochrangigen Tempelvertreter Koreander töten.
+- Im Anschluss werden die SCs vernommen werden vom Hauptmann Dal der Miliz.
+- Der Wettkampf wird ausgesetzt, Magie wird in zukünftigen Wettkämpfen verboten sein.
+  - Melim (m): tot
+  - Rose (f): tot
+  - Bart (m): tot
+  - Elvrik (m): bewusstlos / vergiftet / stirbt
+  - Natanael (m): bewusstlos / vergiftet / stirbt
+  - Akhira (f): bewusstlos / flieht
+- Eigentlicher Auftraggeber sind nicht die Rebellen, sondern die Tempelfunktionäre, die einen Widersacher entfernen wollten.
+- Tempel
+  - Hoheprieser Tormund (alt und senil). Kennt Rengaru
+  - Fraktion 1: Die Konservativen unter Koreander ("Katholische Kirche in extra schlimm")
+    - Rebellen sind Ungläubige
+    - wollen die alte Macht wiederherstellen (wirtschaftlich)
+    - wollen neue Kampfpriester ausbilden
+    - alte Sünden (irre Kampfpriester) sollten verziehen werden
+    - Koreander (tot)
+    - Ganon: langjähriger Freund. Rache, Rache, jetzt.
+    - Edmund: Diener von Koreander. Verstört. In der Oberstadt.
+  - Fraktion 2: Die Progressiven unter Meera ("Gutmenschen", SPD)
+    - wollen die Kampfpriesterschaft abschaffen
+    - alte Sünden sollten aufgearbeitet werden
+    - wollen eine Mission zu den Rebellen entsenden, um zwischen König und Rebellen zu vermitteln
+    - Rickard: Enttäuscht von der Bewegung. Hat mit Meera den Coup geplant. Beide sind ein Paar.
+- Schwarzmagier Lothor (alias Hortlo):
+  - Gnom
+  - Von Meera bei einer "Razzia" aufgegriffen und seitdem bei ihr im Haus gehalten. Sie hatte Mitleid. Jetzt wohnt er im Keller. Es ist sein schwarzer Zauberstab. Er hat den Zauberern die Beschwörung beigebracht.
+  - Tiefe rasselnde Stimme, alt, trägt immer eine abdunkelnde Brille.
+- Arena
+  - Larius: Flieht in die Berge aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten o.ä.
+  - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern
+  - Arenawächter Nestor: Weiß, dass Carla Wettschulden hatte (Kartenzelt!).
+- Lennart: Große Umsatzsteigerungen.
+- Egon reist ab
+- König: 
+  - Dal (Hauptmann): Verspricht den SCs 20 GF für Hinweise zur Ergreifung des Täters oder 100 GF für den Täter (lebend) / 50 GF (tot)
+  - Zweite Hand Osha: 
+
+- 
