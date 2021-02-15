@@ -18,7 +18,6 @@ cover: oasis
 - Alter Mann (Marik) mit Familie (vier Kinder)
 - Jüngstes Kind Dewi ist seit vorgestern verschwunden. Westlich von der Oase befinden sich 4 Riesenskorpione vor einer Gruft
 
-![Oase](/assets/wiki/oase.jpeg)
 ## Charactere
 ### Marik
 - Alt, Vater von 4 Kindern (Aralt, Balin, Cram, Dewi)

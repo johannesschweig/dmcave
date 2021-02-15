@@ -180,12 +180,14 @@ export default {
 }
 
 .tabcontainer {
-  margin-bottom: 32px;
+  margin: 24px 0 32px 0;
   width: 100%;
+  position: relative;
 }
 
 .tabs {
-  max-width: calc(100% - 112px);
+  max-width: calc(100% - 124px);
+  margin-left: 62px;
 }
 
 .tab {
@@ -204,12 +206,22 @@ export default {
   display: inline-block;
   padding: 12px 24px 8px 24px;
   border-bottom: 0.25rem solid white;
+  user-select: none;
+  position: absolute;
 }
 
 .tabarrow:hover,
 .tabarrow:active {
   color: #3eaf7c;
   cursor: pointer;
+}
+
+.tabarrow:first-child {
+  left: 0px;
+}
+
+.tabarrow:not(:first-child) {
+  right: 0px;
 }
 
 .tab:hover {

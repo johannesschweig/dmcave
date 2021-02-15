@@ -14,8 +14,6 @@ cover: desert-city
 - Das Amulett: TODO
 - Menschlicher Schädel 2kg
 
-![Weg](/assets/wiki/wueste.jpeg)
-
 ## Backstory
 - In Luno wird alle 4 Jahre ein Fest zu Ehren des Gottes Varus (Krieg, Wettkampf) gefeiert. Das Fest dauert 7 Tage und schon eine Woche vorher finden sich Gaukler, Händler und Schausteller in Luno ein um ihre Waren an Schaulustige zu verkaufen.
 - Am Anfang des Festes findet ein großer Wettkampf in der Arena statt. Es werden diverse Disziplinen angeboten. Der Gewinner gewinnt den Ruhm und Jubel der ZuschauerInnen und Geld.
@@ -43,7 +41,7 @@ cover: desert-city
 - [Der verlorene Goblin](/wiki/verlorene-goblin.md)
 
 ## Kapitel 3: Arena
-- [Arena](wiki/arena.md)
+- [Arena](/wiki/arena.md)
 - 300k Einwohner
 - Stadttor (Kontrolle, siehe Ort: Stadttor)
 - Basar (abends Party)

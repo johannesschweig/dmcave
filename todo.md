@@ -1,5 +1,4 @@
 # TODO
-- fix links
 - good nav bar spells
 
 ## Ideas
@@ -19,6 +18,7 @@
 ## Problems
 
 # Done
+- fix links
 - left side navigation of hierarchy on wiki page
   - collapsible on mobile
 - favicon

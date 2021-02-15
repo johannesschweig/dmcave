@@ -18,7 +18,6 @@ cover: pub
 - Weitere Ausrüstungsgegenstände
 
 ## Gasthof zum fliegenden Wirt
-![Wirtshaus](/assets/wiki/wirtshaus.jpeg)
 - Auffüllstation, gebrandschatzt von Orks in der Nacht zuvor, Häuptling wurde von Königlichen entführt, jetzt wollen sie rache. Sind auf Expedition nach neuem Zuhause. 4xSG3, 1 Schamane SG5
 - Leichen:
   - Wirt
