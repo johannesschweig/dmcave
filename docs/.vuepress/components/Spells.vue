@@ -104,7 +104,9 @@ export default {
       if (pos + i >= 0 && pos + i < this.tabs.length) {
         this.activeTab = this.tabs[pos + i]
         // TODO scrollinto view
-        // this.$refs[this.activeTab].scrollIntoView({ behavior: 'smooth' });
+        // console.log('x', this.$refs["Weiße Magie"])
+        this.$refs[this.activeTab][0].scrollIntoView({ behavior: 'smooth',  block: "nearest", inline: "nearest" });
+
       }
     }
   }
