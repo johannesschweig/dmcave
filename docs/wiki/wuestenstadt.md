@@ -14,11 +14,14 @@ cover: desert-city
 - Das Amulett: TODO
 - Menschlicher Schädel 2kg
 
+![wueste](../assets/wueste.jpg)
+
 ## Backstory
 - In Luno wird alle 4 Jahre ein Fest zu Ehren des Gottes Varus (Krieg, Wettkampf) gefeiert. Das Fest dauert 7 Tage und schon eine Woche vorher finden sich Gaukler, Händler und Schausteller in Luno ein um ihre Waren an Schaulustige zu verkaufen.
 - Am Anfang des Festes findet ein großer Wettkampf in der Arena statt. Es werden diverse Disziplinen angeboten. Der Gewinner gewinnt den Ruhm und Jubel der ZuschauerInnen und Geld.
 - Abends finden ausgelassene Feiern um die Arena statt.
 - Die Feierlichkeiten im Tempel sind relativ langweilig und die meisten Leute in Luno zu verkatert, um daran teilzunehmen.
+
 
 ## Verbindungen zu den SC
 - Lasagne: Könnte erkannt werden von jemandem, den er mal über den Tisch gezogen hat.

@@ -6,6 +6,7 @@
   - Tempelmachtkampf
 - Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
   - consumables
+  - oder als Questbelohnung (schwarzer Zauberstab?)
 
 ## Background
 - 6 Zaubererstudis aus der Taverne (Gruppe 14)
@@ -21,23 +22,30 @@
 - Eigentlicher Auftraggeber sind nicht die Rebellen, sondern die Tempelfunktionäre, die einen Widersacher entfernen wollten.
 - Tempel
   - Hoheprieser Tormund (alt und senil). Kennt Rengaru
-  - Fraktion 1: Die Konservativen unter Koreander ("Katholische Kirche in extra schlimm")
+  - Fraktion 1: Diener des Steins
+    - Die Konservativen unter Koreander ("Katholische Kirche in extra schlimm")
     - Rebellen sind Ungläubige
     - wollen die alte Macht wiederherstellen (wirtschaftlich)
     - wollen neue Kampfpriester ausbilden
     - alte Sünden (irre Kampfpriester) sollten verziehen werden
+    - Diener des Windes sind Bürokraten, reden zu viel und sind viel zu lasch
     - Koreander (tot)
     - Ganon: langjähriger Freund. Rache, Rache, jetzt.
+      - Kann es nicht glauben. Koreander war ein Mann des Wortes und der Tat. Hofft Meera tritt nicht Tormunds Nachfolge an. Das Varusfest ist nicht mehr das, was es war. Alle Leute sind nur voll mit Drogen gepumpt. König ist schwach und versucht seine Position zu sichern.
     - Edmund: Diener von Koreander. Verstört. In der Oberstadt.
-  - Fraktion 2: Die Progressiven unter Meera ("Gutmenschen", SPD)
+  - Fraktion 2: Diener des Windes
+    - Die Progressiven unter Meera ("Gutmenschen", SPD)
     - wollen die Kampfpriesterschaft abschaffen
     - alte Sünden sollten aufgearbeitet werden
     - wollen eine Mission zu den Rebellen entsenden, um zwischen König und Rebellen zu vermitteln
+    - Meera: Betrübliche Nachricht. Als Kollegen geschätzt, auch wenn nicht immer einer Meinung. Auf seinen Rat vertraut. Politiker blabla.
     - Rickard: Enttäuscht von der Bewegung. Hat mit Meera den Coup geplant. Beide sind ein Paar.
 - Schwarzmagier Lothor (alias Hortlo):
   - Gnom
   - Von Meera bei einer "Razzia" aufgegriffen und seitdem bei ihr im Haus gehalten. Sie hatte Mitleid. Jetzt wohnt er im Keller. Es ist sein schwarzer Zauberstab. Er hat den Zauberern die Beschwörung beigebracht.
   - Tiefe rasselnde Stimme, alt, trägt immer eine abdunkelnde Brille.
+- Rebellen unter Sahar
+  - "Wir waren es nicht, sind aber auch nicht unglücklich darüber."
 - Arena
   - Larius: Flieht in die Berge aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten o.ä.
   - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern
