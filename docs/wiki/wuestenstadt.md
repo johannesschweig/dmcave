@@ -1,9 +1,7 @@
 ---
-layout: wiki
 title:  "Die Wüstenstadt"
-type: quest
-cover: desert-city
 ---
+# Die Wüstenstadt
 ## Pre
 - Weiterer Dungeon
 - Fallendungeon
@@ -81,7 +79,7 @@ cover: desert-city
 - Wenn Mondstaub gefunden wird, wird die Person eingebuchtet oder gegen Zahlung von 10GF freigelassen
 
 ## Taverne zum tönernen Krug
-- Herta: Wirtin, freundlich, aber 
+- Herta: Wirtin, freundlich
 - Pedro: Stallbursche, zurückhaltend
 - völlig ausgebucht 
 - Händler: Lennart (Schlangeneier), Gorn (Schmuck)
@@ -121,20 +119,6 @@ cover: desert-city
 ## Universität der magischen Künste
 - Lehrstuhl Völkerkunde (inkl. Gnomologie) Rondalf
 
-## Auftragsmord
-- SC sollen wichtige Person in Loge der Arena während Vorstellung töten
-- 2 Wächter
-- Möglichkeiten: Gift
-- Sahar (= vor dem Morgengrauen)
-  - Vorsitzende der dunklen Schwesternschaft (arab. Nacht ليل "layl" vs. Tag يوم "yawn")
-  - Mitte 50, schwarze Kleidung, Kopftuch,
-  - Dunkle Schwesternschaft: Selbstjustizorganisation gegen das Patriarchat und Femizid. Nur Frauen sind Mitglieder. Männer sind Waisenkinder oder Kinder der getöteten und werden als Wachen eingesetzt.
-  - Haustier: Mau weiß mit schwarzen Punkten SG 10 (Entweder einfache Katze oder Gestaltwanderlin und höchste Gebieterin des Ordens)
-  - Stats ❤️ 24 / Initiative 0 / Kampfbonus 2 / 🛡️ 6 / 🗡️ -1 / Magiepunkte 50 / Spruchliste 6: Beschwörung, Bannung, Beherrschung / Gezielte Sprüche 1 / SG 8 / Schatz E Saphir
-  - Wachen stark gepanzert, Diener, mit Säbel und Schild SG 4 1 draußen, 2 Vorraum, 3 Innenraum, 1 Hinterzimmer
-    - ❤️ 32 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ 1 / SG 5 / Schatz C-D 1-10GF Dao-Säbel Schild
-    - Dao-Säbel: ST 5, ST, INI 0, 🗡 1, 4 GF, Lange Klingenwaffe, 4kg 
-    - TODO säbel zu schwach im vergleich zu zweihänder
 
 ## Kreaturen
 - Leibgarde: ❤️ 45 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ -1 / SG 5

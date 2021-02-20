@@ -1,19 +1,7 @@
 ---
-layout: wiki
 title:  "Die Oase"
-type: sidequest
-cover: oasis
 ---
-
-## Pre
-- Oasequest ist ungeiler als der schöne Goblinquest.
-- Pflanze muss einfacher werden
-  - +2MP flexible Entfernung. Man konzentiert sich so lange, bis der Zaubernde abbricht oder etwas findet. 1km nichts, 2km nichts, 3km nichts. Willst du weiter suchen? Ok. 4km Ja.
-- Musik
-  - New morning, On the road, the desert, desert campfire, fight, spooky cave, wide planes
-  - big city ahead, busy city
-  - https://mynoise.net/
-
+# Die Oase
 ## Background
 - Alter Mann (Marik) mit Familie (vier Kinder)
 - Jüngstes Kind Dewi ist seit vorgestern verschwunden. Westlich von der Oase befinden sich 4 Riesenskorpione vor einer Gruft
@@ -52,8 +40,6 @@ cover: oasis
 - Skelettfürst:  ❤️ 30 / Initiative 0 / Kampfbonus 4 / 🛡️ 7 / 🗡️ 0 / SG 4 / Speer / Bernstein
 - Skelett (stark): ❤️ 20 / Initiative 1 / Kampfbonus 4 / 🛡️ 6 / 🗡️ 1 / Zauberresistenz 1 / SG 4 / 1 TT
 - Skelettfürst (stark): ❤️ 45 / Initiative 2 / Kampfbonus 4 / 🛡️ 7 / 🗡️ 2 / Zauberresistenz 1 / Angst 1 / SG 6 / 20GF
-
-
 - riesenskorpion: ❤️ 16 / initiative 0 / kampfbonus 2 / 🛡️ 6 / 🗡️ 0 / gift 1 / sg 3
   - behäbig
   - Giftschaden: 3x1TP Schaden. Mehrere Treffer stacken und erhöhen den Schaden 1-2-4-8-12.

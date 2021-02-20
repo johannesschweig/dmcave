@@ -7,6 +7,7 @@
 - Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
   - consumables
   - oder als Questbelohnung (schwarzer Zauberstab?)
+- Skelette auf Elfons ansetzen (Gerüchte von gesichteten Skeletten)
 
 ## Background
 - 6 Zaubererstudis aus der Taverne (Gruppe 14)
@@ -46,14 +47,26 @@
   - Tiefe rasselnde Stimme, alt, trägt immer eine abdunkelnde Brille.
 - Rebellen unter Sahar
   - "Wir waren es nicht, sind aber auch nicht unglücklich darüber."
+  - Sahar (= vor dem Morgengrauen)
+    - Vorsitzende der Rebellen (arab. Nacht ليل "layl" vs. Tag يوم "yawn")
+    - Mitte 50, schwarze Kleidung, Kopftuch,
+    - Nur Frauen sind Mitglieder. Männer sind Waisenkinder oder Kinder der getöteten und werden als Wachen eingesetzt.
+    - Haustier: Mau weiß mit schwarzen Punkten SG 10 (Entweder einfache Katze oder Gestaltwanderlin und höchste Gebieterin des Ordens)
+    - Stats ❤️ 24 / Initiative 0 / Kampfbonus 2 / 🛡️ 6 / 🗡️ -1 / Magiepunkte 50 / Spruchliste 6: Beschwörung, Bannung, Beherrschung / Gezielte Sprüche 1 / SG 8 / Schatz E Saphir
+    - Wachen stark gepanzert, Diener, mit Säbel und Schild SG 4 1 draußen, 2 Vorraum, 3 Innenraum, 1 Hinterzimmer
+      - ❤️ 32 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ 1 / SG 5 / Schatz C-D 1-10GF Dao-Säbel Schild
+      - Dao-Säbel: ST 5, ST, INI 0, 🗡 1, 4 GF, Lange Klingenwaffe, 4kg 
+      - TODO säbel zu schwach im vergleich zu zweihänder
 - Arena
   - Larius: Flieht in die Berge aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten o.ä.
   - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern
-  - Arenawächter Nestor: Weiß, dass Carla Wettschulden hatte (Kartenzelt!).
-- Lennart: Große Umsatzsteigerungen.
-- Egon reist ab
+  - Arenawächter Nestor: Weiß, dass Carla Wettschulden hatte (Kartenzelt!). MS12.
+  - Arzt Garwick: Muss jede Menge Verletzte versorgen.
+- Markt
+  - Lennart: Große Umsatzsteigerungen.
+  - Egon reist ab
+  - Herta/Pedro: Gäste sind unsicher, ob sie bleiben sollen. Pedro hat Kontakte zu den Rebellen.
 - König: 
-  - Dal (Hauptmann): Verspricht den SCs 20 GF für Hinweise zur Ergreifung des Täters oder 100 GF für den Täter (lebend) / 50 GF (tot)
-  - Zweite Hand Osha: 
-
+  - Dal (Hauptmann): Verspricht den SCs 20 GF für Hinweise zur Ergreifung des Täters oder 100 GF für den Täter (lebend) / 50 GF (tot). Die Miliz wird sich um das lokale Verbrechenssyndikat kümmern.
+  - Zweite Hand Osha
 - 

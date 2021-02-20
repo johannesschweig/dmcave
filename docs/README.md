@@ -1,5 +1,3 @@
-# Quests
-# Weltmechaniken
 # Links
 [Arboretum Kreaturenersteller](https://arboretum360.herokuapp.com/)
 

@@ -1,10 +1,8 @@
 ---
-layout: wiki
 title: "Charaktere"
-type: world
-cover: warrior
 ---
 
+# Charaktere
 Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 
 ## Leet
@@ -14,7 +12,6 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - Hat ein Verhältnis mit einer anderen Frau (ca. 50 Jahre alt) ? (Schamanin vlt)
 - Verkauft sinnloses Zeug (Tannenzapfen)
 - Quests: Raubsteine, [Das verfluchte Haus](/wiki/verfluchte-haus.md)
-
 
 ### Ernesto
 - Verwalter
@@ -53,10 +50,10 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - hat sich in Leet einen Feriensitz gekauft
 - Quests: [Das verfluchte Haus](/wiki/verfluchte-haus.md)
 
-## Luno (Wüste)
+## Wüste (Umgebung)
 ### Egon
 - Gaukler und Händler von Kunsthandwerk aus Holz
-- aus Stolkograd an der Küste
+- aus Fischerdorf Stolkograd an der Küste im Norden 
 - Verpeilt, aber gutmütig
 - Hat einen Bruder mit gebrochenem Fuß
 - Questreihe: [Die Wüstenstadt](/wiki/wuestenstadt.md)
@@ -65,3 +62,19 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - lebt in der Oase
 - dankbar, dass die SC seinen Sohn gerettet haben
 - Questreihe: [Die Oase](/wiki/oase.md)
+
+## Luno
+### Larius
+- Arenameister von Luno
+- Leitet die Wettkämpfe in der Arena alle 4 Jahre
+- herzlich, laut, kräftig, derb, ehemaliger Türsteher, "Eishockey-Typ"
+- Questreihe: [Arena](/wiki/arena.md)
+
+### Lennart
+- Schlangeneierhändler in Luno
+- Sehr geschäftsorientiert
+
+### Harod
+- Schmied
+- an Farascha interessiert
+- bezieht von den Rebellen Erz und beliefert sie mit Waffen

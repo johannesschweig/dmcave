@@ -21,6 +21,7 @@ cover: quill
 
 ### Elfons
 - Mehr Mondstaub konsumieren
+- Von Skeletten wegen Münzen verfolgt werden
 
 ### Lasagne
 - Leute hintergehen
