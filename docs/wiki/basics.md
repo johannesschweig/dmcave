@@ -39,7 +39,7 @@ Schatz original mapping
 | Flegel         | Wuchtwaffe                        |              |       1 | ST       | 4,5 |         0 | 38 TT |
 | Florett        | Stichwaffe                        |              |       0 | GE       | 2,5 |         2 | 48 TT |
 | Hellebarde     | Stangenwaffe                      |              |       1 | ST       |   5 |        -1 | 28 TT |
-| Kompositbogen  | Bogen                             |            7 |       1 | St/GE    | 1,5 |        -1 | 34 TT |
+| Kompositbogen  | Bogen                             |            7 |       1 | ST/GE    | 1,5 |        -1 | 34 TT |
 | Kriegshammer   | Wuchtwaffe                        |              |       1 | ST       | 3,5 |         0 | 3 GF  |
 | Kurzbogen      | Bogen                             |              |      -1 | GE       | 1,5 |         1 | 12 TT |
 | Kurzschwert    | Kurze Klingenwaffe                |              |      -1 | ST/GE    |   2 |         1 | 14 TT |

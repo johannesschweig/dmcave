@@ -1,11 +1,8 @@
 # Der Coup
 ## Pre
-- Mehr lore mit Egon
-- Sidequest: Harod's Brief an seine Lieferanten
 - Ausarbeiten: 
   - Tempelmachtkampf
 - Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
-  - consumables
   - oder als Questbelohnung (schwarzer Zauberstab?)
 - Skelette auf Elfons ansetzen (Gerüchte von gesichteten Skeletten)
 
@@ -69,4 +66,20 @@
 - König: 
   - Dal (Hauptmann): Verspricht den SCs 20 GF für Hinweise zur Ergreifung des Täters oder 100 GF für den Täter (lebend) / 50 GF (tot). Die Miliz wird sich um das lokale Verbrechenssyndikat kümmern.
   - Zweite Hand Osha
-- 
+
+## Sidequest: Harod's Brief
+- Harod wird Farascha ansprechen und fragen, ob sie einen Brief an seine Lieferanten überbringen kann
+- Als Belohnung gibt er ihr 5 Iridiumbolzen und 15 Iridiumkugeln
+- In Zukunft stellt er (oder ein anderer Rebellenschmied) für die SC folgende Items her, wenn sie das Material haben
+  - Dauer: 1 Tag / Klinge: 10 Tage
+  - Besondere Bolzen (1=1.6KL): Schaden 2; Herstellungskosten: 2TT
+  - Besondere Kugeln (1=0.16MU): Schaden 0; Herstellungskosten: 2MU
+  - Iridium-Klingenöle (5 GF): 10 Anwendungen Schaden +1
+  - Iridium-Klinge:
+    - Bauplan: Von Rengaru
+    - Klinge: Großer Iridiumbrocken
+    - Knauf: Gegengewicht. 
+    - Griff: Griffband aus Leder von bestimmtem Tier
+    - Parierstange: Großer Iridiumbrocken
+    - Herstellungskosten: 20 GF
+    - Ergebnis: Schaden +1 ggü. herkömmlicher Waffe

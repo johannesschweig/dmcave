@@ -49,6 +49,7 @@ Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelge
   - jagen, was in der Mine lebt
 - Einige tote Abenteurer mit Ausrüstung zum Looten
 - In dessen Hinterlassenschaften lebt der Skarabäus
+- Schatz: 30 kleine Iridiumbrocken für Bolzen (15)/Kugeln(30), großer Iridiumbrocken (100 Bolzen oder besonderes Schwert)
 
 ## Kreaturen
 - Rengaru: ❤️ 20 / Initiative 1 / Kampfbonus 0 / 🛡️ 6 / 🗡️ 0 / Magiepunkte 60 / Spruchliste Weiß 10/Elementar 7/Frei 7 / Gezielte Sprüche 4 / SG 12.1 / Schatz 1 kGF (F)

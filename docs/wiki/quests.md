@@ -8,6 +8,8 @@ cover: quill
 ## Gruppe
 - Herausfinden, ob das Silberamulett magisch ist
   - Ja, es bietet Schutz
+- Den Skarabäus finden (von Rengaru)
+- Rausfinden, wer Koreander getötet hat (von Dal)
 
 ## SC
 ### TrinkFest
@@ -18,6 +20,7 @@ cover: quill
 ### Farascha
 - Einen Tierfreund finden (Rotkehlchen)
 - [x] Date mit Harod (20 Uhr)
+- Harods Brief an die Rebellen liefern
 
 ### Elfons
 - Mehr Mondstaub konsumieren
