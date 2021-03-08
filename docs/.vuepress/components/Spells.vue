@@ -54,6 +54,7 @@
 
 <script>
 import data from './spells.json'
+import { getMod } from '../../utils/index'
 
 export default {
   data () {
@@ -74,7 +75,6 @@ export default {
       for (let i = 0; i < this.items.length; i++) {
         if (Object.keys(this.items[i])[0] === this.activeTab) {
           return this.items[i][this.activeTab]
-          break
         }
       }
     }
@@ -101,13 +101,11 @@ export default {
     shiftTab(i) {
       let pos = this.tabs.indexOf(this.activeTab)
       // don't scroll out of view
-      if (pos + i >= 0 && pos + i < this.tabs.length) {
-        this.activeTab = this.tabs[pos + i]
-        // TODO scrollinto view
-        // console.log('x', this.$refs["Weiße Magie"])
-        this.$refs[this.activeTab][0].scrollIntoView({ behavior: 'smooth',  block: "nearest", inline: "nearest" });
-
-      }
+      // if (pos + i >= 0 && pos + i < this.tabs.length) {
+      // this.activeTab = this.tabs[pos + i]
+      this.activeTab = this.tabs[getMod(pos + i, this.tabs.length)]
+      this.$refs[this.activeTab][0].scrollIntoView({ behavior: 'smooth',  block: "nearest", inline: "nearest" });
+      // }
     }
   }
 }

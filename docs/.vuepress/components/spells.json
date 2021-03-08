@@ -501,7 +501,7 @@
     {
       "rang": 2,
       "spruch": "Genesung",
-      "beschreibung": "Dieses Wunder vermag blutende Wunden zu verschließen oder eine Vergiftung zu heilen oder einen erlittenen Dieses Wund er vermag blutende Wunden zu verschließen oder eine Vergiftung zu heilen oder einen erlittenen Attributsschaden zu kurieren.",
+      "beschreibung": "Dieses Wunder vermag blutende Wunden zu verschließen oder eine Vergiftung zu heilen oder einen erlittenen Attributsschaden zu kurieren.",
       "hinweise": "Berührung",
       "black": [ "Effekt, heilt eine Blutung 1", "Effekt, heilt eine Vergiftung (Giftrang 1)", "Effekt, heilt einen Attributspunkt" ],
       "red": [ "Verst, +2 MP: +1 Blutung", "Verst, +1 MP: +1 Rang", "+3 MP: +1 Attributspunkt" ]

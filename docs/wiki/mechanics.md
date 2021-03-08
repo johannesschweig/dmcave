@@ -2,9 +2,9 @@
 layout: wiki
 title:  "Mechaniken"
 type: world
-cover: die
 ---
 
+# Mechaniken 
 ## Manöver
 
 | Manöver | MS |
@@ -33,3 +33,9 @@ cover: die
 - 500 XP: Einfache Session
 - 1000 XP: Normale Session
 - 2000 XP: Schwierige Session
+
+## Magie wahrnehmen
+- Unklar, ob es nur Zauberer können
+- Aktive Magie: MS10 für gerade geformte oder fortwirkende Zauber, erleichtert durch Wissen (Magie)
+- Versteckte Magie: MS8+Tarnung, erleichtert durch Wissen (Magie)
+- Passive Magie: Alles, was "ausgelöst" werden muss. MS10+Rang des Zaubers, erleichtert durch Wissen (Magie)/Erkenntnis.
