@@ -3,6 +3,8 @@ title:  "Zaubersprüche"
 permalink: /spells
 ---
 
+# Zaubersprüche
+
 <div>
   <style>
     p {

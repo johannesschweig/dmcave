@@ -2,7 +2,6 @@
 
 ## Ideas
 - page title on nav (?)
-- differentiate quests into sidequests and mainquests
 - sections
   - Questlog (personal, team)
   - Showing only upper pages on home page
@@ -12,11 +11,12 @@
   - Rule changes -> Mechanics
   - Maps
   - Cards instead of list with images
-- add sketches/maps to quests
 
 ## Problems
 
 # Done
+- add sketches/maps to quests
+- differentiate quests into sidequests and mainquests
 - good nav bar spells
 - fix links
 - left side navigation of hierarchy on wiki page

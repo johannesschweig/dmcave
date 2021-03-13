@@ -3,6 +3,7 @@ title:  "Das verfluchte Haus"
 permalink: /verfluchte-haus
 ---
 
+# Das verfluchte Haus
 ## SG
 - Geist SG 4
 - Erlösung SG 1

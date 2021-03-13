@@ -3,6 +3,7 @@ title:  "Gegenstände"
 permalink: /gegenstaende
 ---
 
+# Gegenstände
 ## Geld
 - Einfacher Knecht verdient 3 TT im Monat
 
@@ -68,51 +69,51 @@ Schatz original mapping
 
 ## Ausrüstung
 
-| Gegenstand                    | Gewicht   | Preis   |
-|-------------------------------|-----------|---------|
-| Bier                          | 0,5       | 1 MU    |
-| Bolzen (10)                   | 1,5       | 16 KL   |
-| Cidre (1l)                    |         1 | 1 MU    |
-| Fackel                        | 0,1       | 1 MU    |
-| Federkiel und Tinte           | 0,1       | 7 KL    |
-| Feuerstein und Zunder         | 0,3       | 22 MU   |
-| Gasthauszimmer                | –         | 1 KL    |
-| Große Heilertasche            |         4 | 24 GF   |
-| Haltbare Nahrung              |         5 | 3 KL    |
-| Heilsalbe                     | 0,05      | 10 GF   |
-| Heiltrank                     | 0,1       | 40 GF   |
-| Kerze                         | 0,05      | 8 MU    |
-| Kleine Heilertasche           |         2 | 10 GF   |
-| Kleiner Hammer                |         2 | 26 KL   |
-| Kletterhaken                  | 0,1       | 6 TT    |
-| Köcher                        | 1,5       | 12 KL   |
-| Krähenfüße                    | 0,1       | 1 TT    |
-| Kreide                        | –         | 5 MU    |
-| Laterne                       |         1 | 28 KL   |
-| Mahlzeit                      | –         | 2 MU    |
-| Metallkugeln, 30x (Schleuder) |         1 | 5 MU    |
-| Öl                            | 0,5       | 8 KL    |
-| Pergament                     | 0,1       | 6 KL    |
-| Pfeile (20)                   | 1,2       | 1 TT    |
-| Pony                          | /         | 4 GF    |
-| Reitpferd                     | /         | 9 GF    |
-| Rucksack                      |         1 | 44 MU   |
-| Sattel                        |         6 | 12 TT   |
-| Schlafrolle                   |         4 | 12 KL   |
-| Seil                          | 0,2 pro m | 1 KL /m |
-| Stallplatz                    | –         | 1 MU    |
-| Wasserbeutel (1l)             | 0,1/1,1   | 2 MU    |
-| Wein (0,3l)                   | 0,2       | 2 MU    |
-| Zelt                          |         3 | 5 TT    |
-| Dietrich (5)                  | 0,1       | 2 TT    |
-| Schaufel                      |         2 | 1 TT    |
-| Säge                          |         1 | 1 TT    |
-| Glasphiole                    |       0,1 | 5 KL    |
-| Hut                           |       0,5 | 1 TT    |
-| Satteltaschen                 |         5 | 18 KL   |
-| Waffengürtel                  |       0,5 | 1 TT    |
-| Heuballen 1m3 (reicht 1 Tag)  |         5 | 2 KL    |
-| Wasserfass (10l)              |        10 | 2 KL    |
+| Gegenstand                    | Gewicht   | Preis   | Häufigkeit | Funktion   |
+|-------------------------------|-----------|---------|------------|------------|
+| Bier                          | 0,5       | 1 MU    | häufig     | Halber Liter Bier |
+| Bolzen (10)                   | 1,5       | 16 KL   | mittel     | 10 Bolzen für Armbrüste |
+| Cidre (1l)                    |         1 | 1 MU    | häufig     | 1l Apfel-Cidre |
+| Fackel                        | 0,1       | 1 MU    | häufig     | Brennt 6 Stunden und erhellt 6m Umkreis |
+| Federkiel und Tinte           | 0,1       | 7 KL    | mittel     | Zum Schreiben mit Tinte |
+| Feuerstein und Zunder         | 0,3       | 22 MU   | mittel     | Zum Entzünden eines Feuers innerhalb von ca. 3 Minuten |
+| Gasthauszimmer                | –         | 1 KL    | mittel     | Preis für ein Einzelzimmer pro Nacht und Person inklusive Frühstück |
+| Große Heilertasche            |         4 | 24 GF   | sehr selten| Bis zu 20 Anwendungen, erlaubt einen Manöverbonus von +4 auf Wissen (Heilkunde) |
+| Haltbare Nahrung              |         5 | 3 KL    | häufig     | Für eine Woche Nahrung |
+| Heilsalbe                     | 0,05      | 10 GF   | selten     | Verdoppelt die Genesungsrate (5 Anwendungen) |
+| Heiltrank                     | 0,1       | 40 GF   | sehr selten| Regeneriert umgehend 20 Trefferpunkte |
+| Kerze                         | 0,05      | 8 MU    | mittel     | Brennt 2 Stunden und erhellt 3m Umkreis |
+| Kleine Heilertasche           |         2 | 10 GF   | selten     | Bis zu 20 Anwendungen, erlaubt einen Manöverbonus von +2 auf Wissen (Heilkunde) |
+| Kleiner Hammer                |         2 | 26 KL   | mittel     |
+| Kletterhaken                  | 0,1       | 6 TT    | selten     |
+| Köcher                        | 1,5       | 12 KL   | häufig     |
+| Krähenfüße                    | 0,1       | 1 TT    | selten     |
+| Kreide                        | –         | 5 MU    | mittel     |
+| Laterne                       |         1 | 28 KL   | mittel     |
+| Mahlzeit                      | –         | 2 MU    | häufig     |
+| Metallkugeln, 30x (Schleuder) |         1 | 5 MU    | häufig     |
+| Öl                            | 0,5       | 8 KL    | mittel     |
+| Pergament                     | 0,1       | 6 KL    | mittel     |
+| Pfeile (20)                   | 1,2       | 1 TT    | häufig     |
+| Pony                          | /         | 4 GF    | mittel     |
+| Reitpferd                     | /         | 9 GF    | mittel     |
+| Rucksack                      |         1 | 44 MU   | mittel     |
+| Sattel                        |         6 | 12 TT   | mittel     |
+| Schlafrolle                   |         4 | 12 KL   | häufig     |
+| Seil                          | 0,2 pro m | 1 KL /m | häufig     |
+| Stallplatz                    | –         | 1 MU    | -          |
+| Wasserbeutel (1l)             | 0,1/1,1   | 2 MU    | häufig     |
+| Wein (0,3l)                   | 0,2       | 2 MU    | häufig     |
+| Zelt                          |         3 | 5 TT    | mittel     |
+| Dietrich (5)                  | 0,1       | 2 TT    | selten     |
+| Schaufel                      |         2 | 1 TT    | häufig     |
+| Säge                          |         1 | 1 TT    | häufig     |
+| Glasphiole                    |       0,1 | 5 KL    | selten     |
+| Hut                           |       0,5 | 1 TT    | häufig     |
+| Satteltaschen                 |         5 | 18 KL   | mittel     |
+| Waffengürtel                  |       0,5 | 1 TT    | mittel     |
+| Heuballen 1m3 (reicht 1 Tag)  |         5 | 2 KL    | häufig     |
+| Wasserfass (10l)              |        10 | 2 KL    | häufig     |
 
 ## Kräutersammlung
 
