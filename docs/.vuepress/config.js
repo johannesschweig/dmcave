@@ -6,6 +6,8 @@ module.exports = {
   title: 'DM Cave',
   description: 'A dmcave',
   themeConfig: {
-    sidebar: markdownFiles
+    sidebar: markdownFiles,
+    nextLinks: false,
+    prevLinks: false
   }
 }

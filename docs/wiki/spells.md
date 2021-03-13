@@ -25,7 +25,3 @@ title:  "Zaubersprüche"
 
   <Spells />
 </div>
-
-## Homebrew Erweiterungen
-- Nerf von Blenden
-  - Effekt: -8 -> -4

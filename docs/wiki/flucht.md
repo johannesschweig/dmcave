@@ -1,10 +1,10 @@
 ---
 layout: wiki
-title:  "Oneshot TODO"
+title:  "Die Flucht"
 type: quest
 ---
 
-# Oneshot TODO
+# Die Flucht
 ## Pre
 - Schamane/Barde auf 2 runter bei Magie entwickeln und Spruchlisten?
 - Entzünden falsch gespielt. Es entzündet nichts anderes.
