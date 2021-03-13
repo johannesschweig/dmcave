@@ -1,8 +1,6 @@
 ---
-layout: wiki
 title:  "Das überfallene Wirtshaus"
-type: sidequest
-cover: pub
+permalink: /ueberfallene-wirtshaus
 ---
 
 ## Gasthof zum fliegenden Wirt

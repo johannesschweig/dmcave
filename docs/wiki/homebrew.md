@@ -1,7 +1,7 @@
 ---
 title:  "Homebrew"
+permalink: /homebrew
 ---
-
 
 # Homebrew
 Hier finden sich Regeländerungen unserer Aborearegeln

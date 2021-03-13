@@ -1,6 +1,8 @@
 ---
 title:  "Die Wüstenstadt"
+permalink: /wuestenstadt
 ---
+
 # Die Wüstenstadt
 ## Pre
 - Weiterer Dungeon
@@ -34,15 +36,15 @@ title:  "Die Wüstenstadt"
 
 ## Kapitel 1: Zum fliegenden Wirt
 - Von Orks ausgeraubte Gaststätte
-- [Das überfallene Wirtshaus](/wiki/ueberfallene-wirtshaus.md)
+- [Das überfallene Wirtshaus](/ueberfallene-wirtshaus)
 
 ## Kapitel 2: Oase
 - Oase mit Familie, der ein Kind abhanden gekommen ist. Das Kind befindet sich im Eingang einer Gruft.
-- [Die Oase](/wiki/oase.md)
-- [Der verlorene Goblin](/wiki/verlorene-goblin.md)
+- [Die Oase](/oase)
+- [Der verlorene Goblin](/verlorene-goblin)
 
 ## Kapitel 3: Arena
-- [Arena](/wiki/arena.md)
+- [Arena](/arena)
 - 300k Einwohner
 - Stadttor (Kontrolle, siehe Stadttor)
 - Basar (abends Party)
@@ -101,7 +103,7 @@ title:  "Die Wüstenstadt"
 - alter, zauseliger Mann
 - manchmal Demenzattacken ("Wer seid ihr?")
 - Interessiert sich mehr für Insekten als für Zauberartefakte
-- Questline: [Skarabäus](/wiki/skarabeus.md)
+- Questline: [Skarabäus](/skarabeus)
 
 ### Kräuterfrau
 - Inga, Elfe

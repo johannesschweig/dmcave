@@ -1,5 +1,6 @@
 ---
 title:  "Der verlorene Goblinsohn"
+permalink: /verlorene-goblin
 ---
 
 ## Backstory

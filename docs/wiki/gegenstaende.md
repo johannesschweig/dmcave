@@ -1,9 +1,8 @@
 ---
-layout: wiki
-title:  "Basics"
-type: world
-cover: armour
+title:  "Gegenstände"
+permalink: /gegenstaende
 ---
+
 ## Geld
 - Einfacher Knecht verdient 3 TT im Monat
 

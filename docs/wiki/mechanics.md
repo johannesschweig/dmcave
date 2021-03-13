@@ -1,7 +1,6 @@
 ---
-layout: wiki
 title:  "Mechaniken"
-type: world
+permalink: /mechanics
 ---
 
 # Mechaniken 

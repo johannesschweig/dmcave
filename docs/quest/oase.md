@@ -1,6 +1,8 @@
 ---
 title:  "Die Oase"
+permalink: /oase
 ---
+
 # Die Oase
 ## Background
 - Alter Mann (Marik) mit Familie (vier Kinder)

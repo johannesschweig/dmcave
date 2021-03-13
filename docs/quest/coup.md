@@ -1,3 +1,8 @@
+---
+title: "Der Coup"
+permalink: /coup
+---
+
 # Der Coup
 ## Pre
 - Ausarbeiten: 

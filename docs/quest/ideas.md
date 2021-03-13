@@ -1,10 +1,9 @@
 ---
-layout: wiki
 title:  "Ideen"
-type: quest
-cover: ideas
+permalink: /ideas
 ---
 
+# Ideen
 ## Orte
 - Hügelgrab (Kelten)
 - Banditensafe mit sehr vielen Fallen, aber viel Loot

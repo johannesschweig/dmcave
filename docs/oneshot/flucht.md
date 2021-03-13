@@ -1,7 +1,6 @@
 ---
-layout: wiki
 title:  "Die Flucht"
-type: quest
+permalink: /flucht
 ---
 
 # Die Flucht

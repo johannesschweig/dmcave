@@ -1,7 +1,6 @@
 ---
-layout: wiki
 title:  "Skarabäus"
-type: quest
+permalink: /skarabaeus
 ---
 
 ## Background: Rengaru

@@ -1,7 +1,6 @@
 ---
-layout: wiki
 title:  "Arena"
-type: quest
+permalink: /arena
 ---
 # Arena
 ## Ort: Arena

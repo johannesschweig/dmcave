@@ -1,5 +1,6 @@
 ---
 title:  "Das verfluchte Haus"
+permalink: /verfluchte-haus
 ---
 
 ## SG

@@ -1,5 +1,6 @@
 ---
 title:  "Zaubersprüche"
+permalink: /spells
 ---
 
 <div>

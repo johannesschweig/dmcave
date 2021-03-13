@@ -1,7 +1,6 @@
 ---
-layout: wiki
 title:  "Detektei"
-type: quest
+permalink: /detektei
 ---
 
 # Detektei
@@ -48,7 +47,7 @@ type: quest
 
 ## Orte
 ### Taverne
-siehe [Wüstenstadt](/wiki/wuestenstadt.md)
+siehe [Wüstenstadt](/wuestenstadt)
 
 ### Bordell: Rote Laterne
 - Puffmutter und vier Prostituierte

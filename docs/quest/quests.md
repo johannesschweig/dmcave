@@ -1,8 +1,6 @@
 ---
-layout: wiki
 title:  "Characterquests"
-type: quest
-cover: quill
+permalink: /quests
 ---
 
 ## Gruppe
