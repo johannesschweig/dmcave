@@ -34,6 +34,7 @@ Schatz original mapping
 |----------------|-----------------------------------|--------------|---------|----------|-----|-----------|-------|
 | Armbrust       | Armbrust                          |              |       1 | GE       |   5 |         2 | 5 GF  |
 | Bastardschwert | Lange Klingenwaffe                |          6/5 |       0 | ST/GE    |   3 |         0 | 2 GF  |
+| Blasrohr | Blasrohr                                |              |      -3 | GE       | 0,5 |         0 | 3 TT  |
 | Dolch          | Kurze Klingen-/Wurf- / Stichwaffe |              |      -2 | ST/GE    | 0,5 |         2 | 6 TT  |
 | Einhand-Axt    | Äxte/Wurfwaffe                    |              |       0 | ST/GE    |   3 |         0 | 4 TT  |
 | Flegel         | Wuchtwaffe                        |              |       1 | ST       | 4,5 |         0 | 38 TT |

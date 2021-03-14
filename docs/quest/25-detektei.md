@@ -81,3 +81,7 @@ siehe [Wüstenstadt](/wuestenstadt)
   - Verschlüsselter Brief (Schachrätsel): Vorlieben von Koreander: Junge Frauen aus dem Norden. Lässt sich gerne mal auspeitschen. Ab und zu weint er auch. Einige Male mussten die Frauen nach dem Akt mit ihm beten.
 - Aufgabe: Getarnter Wagen geht nachts raus, Dal schickt einen Brief über eine wichtige Lieferung raus. Überfallt die Räuber, verbläut sie und findet raus, ob sie was damit zu tun haben.
   - Wagen sieht unbewacht aus. Überraschungseffekt.
+
+## Learnings
+- Gut, weil nur 3 SpielerInnen
+- Motivation klar

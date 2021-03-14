@@ -97,7 +97,6 @@ permalink: /flucht
 ## Random Encounter
 - 4 Raben, die die SCs angreifen
 
-
 ## Kreaturen
 - Rabe (SG 2.4): ️❤ 6 / Initiative 1 / Kampfbonus 2 / 🛡️ 4 / 🗡️ 0 / Fliegend / SG 2.4 / Schatz 3 KL (A)
 - Adler (SG3)
@@ -106,3 +105,9 @@ permalink: /flucht
 - Berglöwe (SG5): ❤️ 15 / Initiative 2 / Kampfbonus 8 / 🛡️ 6 / 🗡️ 1 / SG 5 / Schatz 3 GF (D)
 - Troll (SG6): ❤️ 30 / Initiative 0 / Kampfbonus 8 / 🛡️ 7 / 🗡️ 0 / Regeneration 1 / SG 6.1 / Schatz 13 GF (D)
 - Harpyie (SG10)
+
+## Learnings
+- Fluss kam gut an (weil es mal gefährlich wurde)
+- Motivation unklar (bei Detektei Oneshot besser)
+- Flucht und Kampf war ungewohnt und schwierig mit Intelligenz als primärem Attribut
+- Ziel war nicht so richtig klar, Setting zu komplex für ein Oneshot ("Wie ist XY überhaupt dazu gekommen bei diesem Attentat mitzumachen?")

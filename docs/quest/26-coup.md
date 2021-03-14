@@ -10,6 +10,9 @@ permalink: /coup
 - Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
   - oder als Questbelohnung (schwarzer Zauberstab?)
 - Skelette auf Elfons ansetzen (Gerüchte von gesichteten Skeletten)
+- Blasrohr: -3 Schaden / GE / 0.5kg / 3TT
+- [ ] Umstände des Resets planen (TrinkFest vergisst seinen Beruf)
+- [ ] Waffenfertigkeiten
 
 ## Background
 - 6 Zaubererstudis aus der Taverne (Gruppe 14)

@@ -20,6 +20,7 @@ permalink: /quests
 - Einen Tierfreund finden (Rotkehlchen)
 - [x] Date mit Harod (20 Uhr)
 - Harods Brief an die Rebellen liefern
+- [ ] eine störische Ziege finden (Witcherquestline)
 
 ### Elfons
 - Mehr Mondstaub konsumieren

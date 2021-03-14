@@ -6,3 +6,5 @@
 [Namensliste](http://www.madmaik.de/download/rpgnamen.pdf)
 
 [Namensgenerator](https://blog.reedsy.com/character-name-generator/fantasy/human/)
+
+[RollenspielMonster wiki](https://rollenspiel.wiki/shelves/aborea)
