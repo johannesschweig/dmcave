@@ -30,6 +30,7 @@ Waffenfertigkeiten werden mit dem jeweiligen Rang der Waffe erlernt. Jede Waffen
 - Rang 6: Schädelbrecher: Da gab es was vors Fressbrett. 8-10: Doppelter Schaden.
 - Rang 8: Berserker: Du siehst rot! Wenn du unter 50% TP hast, haben deine nächsten 5 Schläge +1.
 ### Kurze Klingenwaffe, Stichwaffe
+- Rang 2: Riposte: Jeder Gegner, der dich diese Runde nicht trifft, gibt dir +1 auf deinen nächsten Schlag.
 - Rang 4: Sprungangriff: Siehe oben
 - Rang 6: Angriffserie: -2 Schaden, 3 Angriffe auf ein Ziel
 ### Stangenwaffe, Lange Klingenwaffe

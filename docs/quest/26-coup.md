@@ -5,14 +5,13 @@ permalink: /coup
 
 # Der Coup
 ## Pre
-- Ausarbeiten: 
-  - Tempelmachtkampf
 - Sinnvolle Erweiterungen für die SC für 10/100/1000 GF
   - oder als Questbelohnung (schwarzer Zauberstab?)
 - Skelette auf Elfons ansetzen (Gerüchte von gesichteten Skeletten)
 - Blasrohr: -3 Schaden / GE / 0.5kg / 3TT
-- [ ] Umstände des Resets planen (TrinkFest vergisst seinen Beruf)
-- [ ] Waffenfertigkeiten
+- Umstände des Resets planen (TrinkFest vergisst seinen Beruf)
+    - Absturz im Aufzug; zu Stein werden durch Basilisk; komisches Pilzgas, das high macht
+- Waffenfertigkeiten zeigen
 
 ## Background
 - 6 Zaubererstudis aus der Taverne (Gruppe 14)
@@ -63,17 +62,15 @@ permalink: /coup
       - Dao-Säbel: ST 5, ST, INI 0, 🗡 1, 4 GF, Lange Klingenwaffe, 4kg 
       - TODO säbel zu schwach im vergleich zu zweihänder
 - Arena
-  - Larius: Flieht in die Berge aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten o.ä.
-  - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern
-  - Arenawächter Nestor: Weiß, dass Carla Wettschulden hatte (Kartenzelt!). MS12.
+  - Larius: Flieht aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten, Veruntreuen von Geldern o.ä. Über alle Berge
+  - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern. Von den Rebellen gefangen genommen.
   - Arzt Garwick: Muss jede Menge Verletzte versorgen.
 - Markt
   - Lennart: Große Umsatzsteigerungen.
-  - Egon reist ab
+  - Egon: schwer verletzt (stirbt)
   - Herta/Pedro: Gäste sind unsicher, ob sie bleiben sollen. Pedro hat Kontakte zu den Rebellen.
 - König: 
   - Dal (Hauptmann): Verspricht den SCs 20 GF für Hinweise zur Ergreifung des Täters oder 100 GF für den Täter (lebend) / 50 GF (tot). Die Miliz wird sich um das lokale Verbrechenssyndikat kümmern.
-  - Zweite Hand Osha
 
 ## Sidequest: Harod's Brief
 - Harod wird Farascha ansprechen und fragen, ob sie einen Brief an seine Lieferanten überbringen kann
@@ -91,3 +88,21 @@ permalink: /coup
     - Parierstange: Großer Iridiumbrocken
     - Herstellungskosten: 20 GF
     - Ergebnis: Schaden +1 ggü. herkömmlicher Waffe
+
+## Weg zu den Rebellen
+- Dal wird Marlies holen lassen, die die SCs zu den Rebellen führen soll
+- Marlies: ehemalige Zauberin, Mondstaubsüchtig, sitzt wegen Schmuggel ein, Partner Friedhelm sitzt auch (deshalb kann sie nicht fliehen)
+  - erst passiv, wird sich erstmal Mondstaub reinziehen, dann aktiv
+  - ❤️ 18 / Initiative 1 / Kampfbonus 0 / 🛡️ 6 / 🗡️ -2 / Magiepunkte 20 / Spruchliste 3 Weiße Magie / SG 4.1 / Schatz 9 TT (C)
+  - Zauber: Schutz, Linderung, Erkenntnis
+
+## Die Rebellen
+- Sahar hat Karla gefangen, aber wird den SCs erst Informationen darüber geben, wenn sie die Mine untersuchen
+- Quest: [Skarabäus](/skarabaeus)
+- Osha (Ausrüster)
+  - Papagei im Käfig
+  - Seil, Schlaghaken, Felshammer
+  - Papagei im Käfig
+  - Schaufel
+  - Spitzhacke
+  - Helme
