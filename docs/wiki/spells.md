@@ -1,5 +1,5 @@
 ---
-title:  "Zaubersprüche"
+title:  "Zaubersprüche 👀"
 permalink: /spells
 ---
 

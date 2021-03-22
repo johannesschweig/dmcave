@@ -38,6 +38,8 @@ permalink: /coup
     - Ganon: langjähriger Freund. Rache, Rache, jetzt.
       - Kann es nicht glauben. Koreander war ein Mann des Wortes und der Tat. Hofft Meera tritt nicht Tormunds Nachfolge an. Das Varusfest ist nicht mehr das, was es war. Alle Leute sind nur voll mit Drogen gepumpt. König ist schwach und versucht seine Position zu sichern.
     - Edmund: Diener von Koreander. Verstört. In der Oberstadt.
+    - Myla: Bi-curious langsame Heilerin
+    - Kampfpriester werden zurückgerufen
   - Fraktion 2: Diener des Windes
     - Die Progressiven unter Meera ("Gutmenschen", SPD)
     - wollen die Kampfpriesterschaft abschaffen
@@ -53,14 +55,11 @@ permalink: /coup
   - "Wir waren es nicht, sind aber auch nicht unglücklich darüber."
   - Sahar (= vor dem Morgengrauen)
     - Vorsitzende der Rebellen (arab. Nacht ليل "layl" vs. Tag يوم "yawn")
-    - Mitte 50, schwarze Kleidung, Kopftuch,
-    - Nur Frauen sind Mitglieder. Männer sind Waisenkinder oder Kinder der getöteten und werden als Wachen eingesetzt.
-    - Haustier: Mau weiß mit schwarzen Punkten SG 10 (Entweder einfache Katze oder Gestaltwanderlin und höchste Gebieterin des Ordens)
+    - Mitte 50, schwarze Kleidung, Kopftuch
     - Stats ❤️ 24 / Initiative 0 / Kampfbonus 2 / 🛡️ 6 / 🗡️ -1 / Magiepunkte 50 / Spruchliste 6: Beschwörung, Bannung, Beherrschung / Gezielte Sprüche 1 / SG 8 / Schatz E Saphir
     - Wachen stark gepanzert, Diener, mit Säbel und Schild SG 4 1 draußen, 2 Vorraum, 3 Innenraum, 1 Hinterzimmer
       - ❤️ 32 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ 1 / SG 5 / Schatz C-D 1-10GF Dao-Säbel Schild
       - Dao-Säbel: ST 5, ST, INI 0, 🗡 1, 4 GF, Lange Klingenwaffe, 4kg 
-      - TODO säbel zu schwach im vergleich zu zweihänder
 - Arena
   - Larius: Flieht aus Angst vor Aufdecken seiner (illegalen) Machenschaften. Wetten, Veruntreuen von Geldern o.ä. Über alle Berge
   - Arenawächterin Carla (geflohen): Kooperierte mit den Mördern. Von den Rebellen gefangen genommen.

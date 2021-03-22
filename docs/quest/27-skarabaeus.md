@@ -7,6 +7,9 @@ permalink: /skarabaeus
 
 ![mine](../assets/mine.jpg)
 
+## Pre
+- Auf Spürimpuls für Skarabäen bei Farascha achten (siehe Anmerkungen unten)
+
 ## Background: Rengaru
 Rengaru ist ein Zwerg (65 J), der erst spät sein Ingenium entdeckt hat (bei Zwergen äußert selten). Daraufhin war er sehr erfolgreich und stand bei großen Herrschern im Dienst. Er bereiste die Welt und sammelte magische Artefakte. Er wurde nach Luno berufen, um dort die Universität zu leiten (30 J).
 
@@ -17,19 +20,22 @@ Er flieht sich in das obsessive Sammeln von Insekten und lebt von seinem Vermög
 Der Bruder von Rengaru heißt Gaudon.
 
 ## Timeline
-- -150 (vor 150 Jahren)
+- vor 150 Jahren
     - Königlichen kommen nach Luno und diskriminieren die Einheimischen (Rebellen)
-- -100
+- vor 100 Jahren 
     - Abenteurer finden im Asir-Gebirge im Osten Kohle, Erz und Iridium (erster Abbau)
-- -90
+- vor 90 Jahren
     - Rebellen fliehen in die Berge und besetzen die Minen
-- -35
+- vor 35 Jahren (alte Leute wissen es)
     - Rengaru (30 J) lernt Barion kennen
     - Rengaru besucht die Minen
-- -20
+    - Sahar (20 J)
+- vor 20 Jahren (junge Leute haben davon gehört) 
     - Rengaru (45 J) hat Barion verloren
-- 0
+    - Sahar (35 J)
+- heute
     - Rengaru (65 J) heute
+    - Sahar (55 J)
 
 ## Die Aufgabe
 - Die SCs sollen in eine nahegelegene Mine gehen, um dort den Seidspaltenskarabäus zu besorgen
@@ -53,18 +59,13 @@ Der Bruder von Rengaru heißt Gaudon.
 - Marode Holzplanken an der Firste (Decke) oder an der Sohle (Boden)
 - Marode Holzfahren (Leitern)
 
-
 ## Ort: Mine
-Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelgebirge. Die Rebellen halten das Gebirge besetzt wegen der strategischen Lage.
-
-### Oben
-- Einige Rebellen liegen vor dem Eingang der Mine
-- nicht feindselig, eher gelangweilt
+Die alte Mine liegt einen Stunde vom Rebellenlager entfernt an einem Mittelgebirge. Einzelne Riesenameisen laufen außen herum.
 
 ### I. Ebene
 #### 1: Vorraum
 - Körbe, Spitzhacke
-- F: Felsspalte mit Fallen (MS8 zum Entdecken)
+- F: Felsspalte mit Fallen (MS8 zum Entdecken) "Pfad der Pfähle"
     - Falle: Marode Holzbalken mit Pfählen (MS10 zum Entdecken, MS8 bei Vermutung)
         - 4+d6 Schaden
     - Falle: Stolperdraht mit Falltür von oben (MS10 zum Entdecken)
@@ -77,9 +78,11 @@ Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelge
     - Athletik/GE Save MS8, sonst d6 Schaden
 #### 3: Leiter (unten)
 - gefluteter Hohlraum
+
 ### II. Ebene
 #### 4: Mittelraum
 - Toter Rebell #1 (Piercer), halb aufgegessen
+- Farascha merkt, dass die Käfer in der Nähe sind, eher links unten
 #### 5: Ameisenbau
 - Toter Rebell #2
 - Zahnrad #2
@@ -92,18 +95,30 @@ Die alte Mine liegt einen halben Tagesmarsch von Luno entfernt an einem Mittelge
     - "Mein lieber Barion, diese Expedition war leider große Zeitverschwendung. Ich hatte gehofft in dieser Mine auf eine Iridiumader zu stoßen, aber der Weg weiter nach unten ist versperrt. Zumindest habe ich ein paar interesante Insekten gefunden und die trockene, abgestandene Luft erinnert mich an meine Heimat. Aber das ist alles ein schwacher Trost. Wäre ich doch bei dir in Luno geblieben. Wir hätten uns ein paar schöne Tage gemacht... Für immer, dein Rengaru."
 #### 7: Unfertiger Stollen
 - Grubengas
+    - Kennzeichnung mit Andreaskreuz
     - Vorsichtige Explosion 2+d6 Schaden
     - Fahrlässige Explosion 6+d10 Schaden
 - Zahnrad #3
 #### 8: Aufzug
 - Muss mit Zahnrad #1-3 repariert werden
+
 ### III. Ebene
 #### 9: Basiliskenhöhle
+- Farascha merkt, dass die Käfer in der Nähe sind, direkt gerade aus
 - Versteinerte Ratten
 - Im Kot der Basilisken lebt der Skarabäus
 - Schatz: 30 kleine Iridiumbrocken für Bolzen (15)/Kugeln(30), großer Iridiumbrocken (100 Bolzen oder besonderes Schwert)
 
-### Hintergrundwissen: Bergbau
+## Ort: Rebellencamp
+- Anführerin (Sahar) der "Kinder der Nacht"
+- Ausrüster (Osha)
+- Rauchzelt
+    - Buddler Erol
+    - Wirt (Gerrin)
+- Schmiede
+- Schlote (Rennöfen)
+
+## Hintergrundwissen: Bergbau
 - Knappenvereine (Kranken- und Sterbekassen)
 - Kumpels, Hauer
 - arbeiten mit Hacke und Schaufel

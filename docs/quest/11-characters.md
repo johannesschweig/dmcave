@@ -11,7 +11,7 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - Trinkt gerne
 - Hat ein Verhältnis mit einer anderen Frau (ca. 50 Jahre alt) ? (Schamanin vlt)
 - Verkauft sinnloses Zeug (Tannenzapfen)
-- Quests: Raubsteine, [Das verfluchte Haus](/verfluchte-haus)
+- Quest: Raubsteine, [Das verfluchte Haus](/verfluchte-haus)
 
 ### Ernesto
 - Verwalter
@@ -19,7 +19,7 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - Relativ vermögend
 - Angenervt von Gier von Elfons
 - Uneheliche Tochter (tot)
-- Quests: Raubsteine
+- Quest: Raubsteine
 
 ### Flanna
 - Schamanin des Dorfes
@@ -28,8 +28,7 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - Wissen in Kräuterkunde und über Tiere
 - hat Farascha ein Kräuterbuch geschenkt
 - Heilen / Trance / heiliger Bezirk (Manovermalus) / Unterschlupf
-- Stats: ♥ 20 / INI 0 / KB 3 / 🛡 6 / 🗡 -1 / MP 12 / Spruchl 4 / SG4 / Schatz D / Rang 4
-- Quests: [Das verfluchte Haus](/verfluchte-haus)
+- Quest: [Das verfluchte Haus](/verfluchte-haus)
 
 ### Leunnand
 - Wirt des Brandkessels
@@ -41,14 +40,13 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - kann lesen
 - Feind von Trinkfest
 - hat Kontakte zum organisierten Verbrechen
-- Quests: [Das verfluchte Haus](/verfluchte-haus)
-- Stats: ♥ 12 / INI 0 / KB 3 / 🛡 6 / 🗡 -1 / MP 0 / Spruchl 0 / SG2
+- Quest: [Das verfluchte Haus](/verfluchte-haus)
 
 ### Valerius
 - Tuchhändler aus Digione
 - Vermögend, arrogant
 - hat sich in Leet einen Feriensitz gekauft
-- Quests: [Das verfluchte Haus](/verfluchte-haus)
+- Quest: [Das verfluchte Haus](/verfluchte-haus)
 
 ## Wüste (Umgebung)
 ### Egon
@@ -56,19 +54,19 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - aus Fischerdorf Stolkograd an der Küste im Norden 
 - Verpeilt, aber gutmütig
 - Hat einen Bruder mit gebrochenem Fuß
-- Questreihe: [Die Wüstenstadt](/wuestenstadt)
+- Quest: [Die Wüstenstadt](/wuestenstadt)
 
 ### Marik
 - lebt in der Oase
 - dankbar, dass die SC seinen Sohn gerettet haben
-- Questreihe: [Die Oase](/oase)
+- Quest: [Die Oase](/oase)
 
 ## Luno
 ### Larius
 - Arenameister von Luno
 - Leitet die Wettkämpfe in der Arena alle 4 Jahre
 - herzlich, laut, kräftig, derb, ehemaliger Türsteher, "Eishockey-Typ"
-- Questreihe: [Arena](/arena)
+- Quest: [Arena](/arena)
 
 ### Lennart
 - Schlangeneierhändler in Luno
@@ -78,3 +76,21 @@ Diese Seite enthält Charaktere, die den SpielerInnen bekannt sind.
 - Schmied
 - an Farascha interessiert
 - bezieht von den Rebellen Erz und beliefert sie mit Waffen
+
+### Dal
+- Hauptmann der Miliz
+- Choleriker ("Bin ich hier nur von Idioten umgeben?")
+- Quest: [Der Coup](/coup)
+
+### Marlies
+- ehemalige Zauberin ("Festivalgirl")
+- Mondstaubsüchtig
+- sitzt wegen Schmuggel ein, Partner Friedhelm sitzt auch (deshalb kann sie nicht fliehen)
+- Quest: [Der Coup](/coup)
+ 
+## Rebellen
+### Sahar
+- Anführerin der Rebellen
+- ruhig, gesetzt, konsequent, unnachgiebig
+- "Für unser Überleben müssen Opfer gebracht werden"
+- Quests: [Der Coup](/coup), [Skarabäus](/skarabaeus)

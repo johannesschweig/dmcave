@@ -9,6 +9,8 @@ permalink: /quests
   - Ja, es bietet Schutz
 - Den Skarabäus finden (von Rengaru)
 - Rausfinden, wer Koreander getötet hat (von Dal)
+- Friedhelm aus dem Gefängnis befreien (von Marlies)
+- Von wem ist die einzelne Sandale? (von Stadtwache)
 
 ## SC
 ### TrinkFest
@@ -19,7 +21,7 @@ permalink: /quests
 ### Farascha
 - Einen Tierfreund finden (Rotkehlchen)
 - [x] Date mit Harod (20 Uhr)
-- Harods Brief an die Rebellen liefern
+- [x] Harods Brief an die Rebellen liefern
 - [ ] eine störische Ziege finden (Witcherquestline)
 
 ### Elfons
