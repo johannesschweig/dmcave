@@ -59,7 +59,6 @@ permalink: /arena
 - Der Wettkampf wird ausgesetzt, Magie wird in zukünftigen Wettkämpfen verboten sein.
 - Arenawand: 3m hoch
 - Zauberstudis
-  - Blendbrillen: +4 gegen Blenden
   - Weiße Magie: Rang 4. 1 Schutz. 4 Erschaffung.
   - Schwarze Magie: Rang 4. 4 Beschwörung 4+1 MP
   - Studi: ❤️ 14 / Initiative -1 / Kampfbonus 0 / 🛡️ 5 / 🗡️ -2 / Magiepunkte 20 / Spruchliste 8 / SG 4.1 / Schatz 9 TT (C)

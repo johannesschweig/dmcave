@@ -1,5 +1,4 @@
-export const myCreatures = [
-  {
+export const myCreatures = [{
     name: 'Strauchdieb',
     weapon: 'Dolch',
     info: 'e.g. Ronan',
@@ -118,6 +117,226 @@ export const myCreatures = [
       spelll: 3
     }
   },
+  {
+    name: 'Einfacher Schwertkämpfer',
+    weapon: 'Kurzschwert',
+    fought: true,
+    sg: 2.7,
+    attr: {
+      tp: 12,
+      ini: 0,
+      kb: 3,
+      rb: 6,
+      s: -1
+    }
+  },
+  {
+    name: 'Einfacher Armbrustschütze',
+    weapon: 'Armbrust',
+    fought: true,
+    sg: 3.1,
+    attr: {
+      tp: 10,
+      ini: 0,
+      kb: 3,
+      rb: 6,
+      s: 2
+    }
+  },
+  {
+    name: 'Paladinanführer',
+    weapon: 'Langschwert',
+    fought: true,
+    sg: 6.8,
+    attr: {
+      tp: 50,
+      ini: 2,
+      kb: 5,
+      rb: 8,
+      s: 2
+    }
+  },
+  {
+    name: 'Paladin (Nahkampf)',
+    weapon: 'Kurzschwert',
+    fought: true,
+    sg: 5.1,
+    attr: {
+      tp: 36,
+      ini: 2,
+      kb: 4,
+      rb: 7,
+      s: 1
+    }
+  },
+  {
+    name: 'Paladin (Fernkampf)',
+    weapon: 'Armbrust',
+    fought: true,
+    sg: 4.9,
+    attr: {
+      tp: 36,
+      ini: 2,
+      kb: 4,
+      rb: 6,
+      s: 2
+    }
+  },
+  {
+    name: 'Zauberlehrling',
+    fought: true,
+    sg: 4.1,
+    info: 'Rang 4 Weiße Magie, Rang 4 Schwarze Magie',
+    attr: {
+      tp: 14,
+      ini: -1,
+      kb: 0,
+      rb: 5,
+      s: -2,
+      mp: 20,
+      spelll: 8
+    }
+  },
+  {
+    name: 'Schwarzer Goblin (beschworen)',
+    weapon: 'Dolch',
+    fought: true,
+    sg: 2,
+    attr: {
+      tp: 8,
+      ini: 0,
+      kb: 2,
+      rb: 6,
+      s: -2
+    }
+  },
+  {
+    name: 'Schwarzbär (klein)',
+    fought: false,
+    sg: 3.3,
+    attr: {
+      tp: 20,
+      ini: 1,
+      kb: 3,
+      rb: 6,
+      s: 0
+    }
+  },
+  {
+    name: 'Troll',
+    fought: false,
+    sg: 6.1,
+    attr: {
+      tp: 30,
+      ini: 0,
+      kb: 8,
+      rb: 7,
+      s: 0,
+      reg: 1
+    }
+  },
+  {
+    name: 'Arabischer Wolf',
+    fought: false,
+    sg: 3,
+    attr: {
+      tp: 10,
+      ini: 1,
+      kb: 3,
+      rb: 6,
+      s: 1
+    }
+  },
+  {
+    name: 'Geist',
+    fought: true,
+    sg: 4.9,
+    attr: {
+      tp: 20,
+      ini: 0,
+      kb: 2,
+      rb: 8,
+      s: -1,
+      bodiless: true
+    }
+  },
+  {
+    name: 'Rabe',
+    fought: false,
+    sg: 2.4,
+    attr: {
+      tp: 6,
+      ini: 1,
+      kb: 2,
+      rb: 4,
+      s: 0,
+      flying: true
+    }
+  },
+  {
+    name: 'Wolf (allein)',
+    fought: false,
+    sg: 3.5,
+    attr: {
+      tp: 12,
+      ini: 2,
+      kb: 4,
+      rb: 6,
+      s: 1
+    }
+  },
+  {
+    name: 'Bär',
+    fought: true,
+    sg: 4.8,
+    attr: {
+      tp: 25,
+      ini: 1,
+      kb: 6,
+      rb: 6,
+      s: 1
+    }
+  },
+  {
+    name: 'Berglöwe',
+    fought: false,
+    sg: 5,
+    attr: {
+      tp: 15,
+      ini: 2,
+      kb: 8,
+      rb: 6,
+      s: 1
+    }
+  },
+  {
+    name: 'Harpyie',
+    fought: false,
+    sg: 9.8,
+    attr: {
+      tp: 30,
+      ini: 2,
+      kb: 10,
+      rb: 7,
+      s: 1,
+      mp: 12,
+      spelll: 3,
+      flying: true,
+      scream: true
+    }
+  },
+  {
+    name: 'Goblin',
+    fought: true,
+    sg: 1.9,
+    attr: {
+      tp: 4,
+      ini: 0,
+      kb: 2,
+      rb: 6,
+      s: -2
+    }
+  },
 ]
 
 export const alias = [{
@@ -142,7 +361,7 @@ export const alias = [{
   {
     short: 'rb',
     long: 'Rüstungsbonus',
-    mod: [ 10, 20, 30, 40, 50, 75, 100, 125 ],
+    mod: [10, 20, 30, 40, 50, 75, 100, 125],
     emoji: '🛡️',
     help: 'Der Rüstungswert der Kreatur. Dieser kann auch durch Magie oder durch seine Art/Konstruktion zustande kommen.'
   },
@@ -174,25 +393,25 @@ export const alias = [{
   {
     short: 'magres',
     long: 'Zauberresistenz',
-    mod: [ 15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195 ],
+    mod: [15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195],
     help: 'Wenn eine Kreatur gegen Zauber resistent ist, dann erhält sie einen Bonus in der angegebenen Höhe auf ihre Rüstung gegen gezielte Zauber.'
   },
   {
     short: 'reg',
     long: 'Regeneration',
-    mod: [ 15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195 ],
+    mod: [15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195],
     help: 'Die Fähigkeit einer Kreatur, Trefferpunkte von Natur aus wiederzuerhalten. Üblicherweise gewinnt die Kreatur so viele TP pro Runde wieder, wie dort als Zahl angegeben sind. Beispielsweise würde Regeneration 2 bedeuten, dass die Kreatur 2TP pro Runde regeneriert.'
   },
   {
     short: 'reload',
     long: 'Nachladen',
-    mod: [ 30, 60, 90, 120, 150, 200, 250, 300, 350, 400, 500 ],
+    mod: [30, 60, 90, 120, 150, 200, 250, 300, 350, 400, 500],
     help: 'Diese besondere Eigenschaft regeneriert Magiepunkte pro Runde.'
   },
   {
     short: 'elemenatt',
     long: 'Elementare Angriffe',
-    mod: [ 15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195 ], 
+    mod: [15, 30, 45, 60, 75, 95, 115, 135, 155, 175, 195],
     help: 'Eine Kreatur, die über diese Besondere Eigenschaft verfügt, richtet zusätzlich zum normalen Schaden - der ebenfalls dem Element schon entspringt, noch einen Schaden in Höhe des hier angegeben Wertes an. Elementarangriffe können Sekundärschäden verursachen. Ein Feuerschaden kann beispielsweise auch Entzünden.'
   },
   {
@@ -204,7 +423,7 @@ export const alias = [{
   {
     short: 'venom',
     long: 'Gift',
-    mod: [ 30, 60, 90, 120, 150, 210, 270, 330, 390, 450, 650 ],
+    mod: [30, 60, 90, 120, 150, 210, 270, 330, 390, 450, 650],
     help: 'Der Biss einiger Tiere oder der Verzehr bestimmter Pflanzen kann giftig sein.'
   },
   {
@@ -278,5 +497,3 @@ export const alias = [{
     help: 'Die Kreatur ist gegenüber einer bestimmten Sache extrem empfindlich und erhält bei Einwirkungen mit der bestimmten Sache vierfachen Schaden. (Beispielsweise Wasser bei einem Feuerwesen.)'
   }
 ]
-
-

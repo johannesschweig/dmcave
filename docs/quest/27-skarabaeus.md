@@ -9,6 +9,7 @@ permalink: /skarabaeus
 
 ## Pre
 - Auf Spürimpuls für Skarabäen bei Farascha achten (siehe Anmerkungen unten)
+- Bei Rückkehr: Exekutionsszene mit Sahar von einem Kollaborateur
 
 ## Background: Rengaru
 Rengaru ist ein Zwerg (65 J), der erst spät sein Ingenium entdeckt hat (bei Zwergen äußert selten). Daraufhin war er sehr erfolgreich und stand bei großen Herrschern im Dienst. Er bereiste die Welt und sammelte magische Artefakte. Er wurde nach Luno berufen, um dort die Universität zu leiten (30 J).
