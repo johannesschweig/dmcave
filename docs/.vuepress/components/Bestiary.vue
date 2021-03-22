@@ -1,29 +1,52 @@
 <template>
   <div>
     <h1>Bestiarium</h1>
-    <div class='split'>
-      <ul>
-        <li
-          v-for='c in myCreatures'
-          :key='c.name'
-          :class='{ "preview": c.name === preview }'
-          @click='preview = c.name'>
-          {{ c.name }} {{ c.sg }}
-        </li>
-      </ul>
-      <div class='card'>
-        <div class='heading'>{{ previewCreature.name }}</div>
-        <div
-          v-for='key in Object.keys(previewCreature.attr)'
-          :key='previewCreature.name+key'>
-          {{ key }}: {{ previewCreature.attr[key]}}
-        </div>
-        <i>{{previewCreature.info}}</i>
-        <div>SG: {{previewCreature.sg}}</div>
+    <div id='split'>
+      <div id='left'>
+        <ul>
+          <li
+            v-for='c in myCreatures'
+            :key='c.name'
+            :class='{ "preview": c.name === preview }'
+            @click='preview = c.name'>
+            {{ c.name }} {{ c.sg }}
+          </li>
+        </ul>
       </div>
-
+      <div id='right'>
+        <!-- Heading -->
+        <div class='heading'>
+          <span class='name'>{{ previewCreature.name }}</span>
+          <svg width="38" height="41" viewBox="0 0 38 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <text :x="Math.round(previewCreature.sg) > 9 ? 4 : 12" y="26">
+                {{ Math.round(previewCreature.sg) }}
+              </text>
+            <path d="M1 4.48117C13.3076 -0.487465 26.2631 0.175561 37 4.49115V21.494C36.1789 27.4535 30.5658 37.2902 19 39.5157C7.43425 37.2902 1.82114 27.4536 1 21.494V4.48117Z" stroke="#9B5E2A" stroke-width="2"/>
+          </svg>
+        </div>
+        <!-- Main attributes (red banner) -->
+        <div class='main-attr'>
+          <div
+            class='attr'
+            v-for='key in Object.keys(previewCreature.attr).slice(0, 5)'
+            :key='previewCreature.name+key'>
+            <div>{{ previewCreature.attr[key]}}</div>
+            <div>{{ key.toUpperCase() }}</div>
+          </div>
+        </div>
+        <!-- Tags -->
+        <div class='tags'>
+          <p
+            v-for='key in Object.keys(previewCreature.attr).slice(5)'
+            class='tag'
+            :key='previewCreature.name+key'>
+            {{ key }}: {{ previewCreature.attr[key]}}
+          </p>
+        </div>
+        <!-- Info -->
+        <div class='info'><p>{{ previewCreature.weapon }}, {{previewCreature.info}}</p></div>
+      </div>
     </div>
-        
   </div>
 </template>
 
@@ -65,41 +88,93 @@ li.preview {
   color: #3eaf7c;
 }
 
-.split {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+#left {
+  display: inline-block;
+  margin-right: 48px;
 }
 
-.card {
-  /* background-color: #fdf1dc; */
-  padding: 12px;
-  background-image: url(data:image/png;base64,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);
+#right {
+  display: inline-block;
+  min-width: 300px;
+  min-height: 400px;
+  vertical-align: top;
+  background: #FCF6EA;
+  box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+  padding: 16px;
+}
+
+#right p {
+  max-width: 300px;
 }
 
 .heading {
+  margin-bottom: 16px;
+}
+
+.heading svg,
+.sg {
+  float: right;
+}
+
+svg text {
+  fill: #4D1301;
+}
+
+svg text,
+.name,
+.sg {
   font-size: 24px;
   font-family: 'Bookman Old Style', sans-serif;
-  color: #5F2E1F;
 }
 
-
-
-
-main {
-  postion: relative;
-  width: 100%;
-  height: auto;
+.name {
+  color: #69220C;
+  text-decoration: underline;
+  text-decoration-color: #9B5E2A;
+  margin-right: 24px;
 }
 
-.card {
-  /* center page with absolute position */
-	box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2), 0 0 125px #8f5922 inset;
-	background: #fffef0;
-  /* v2.1 : borders effect with SVG : try to play with scale to change them */
-  filter: url(#wavy2);
-  /* v2.2 : Noise added for a vellum paper effect */
-  background-image: url(data:image/png;base64,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);
+.sg {
+  color: #4D1301;
 }
 
+.main-attr {
+  background: #F8DBCE;
+  margin: 0 -16px;
+  padding: 16px;
+  color: #860900;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  justify-items: center;
+}
 
+.attr > *:first-child {
+  font-size: 18px;
+}
+
+.attr > *:nth-child(2) {
+  font-size: 12px;
+  text-align: center;
+}
+
+.tags {
+  margin: 16px 0;
+  font-size: 14px;
+}
+
+.tag {
+  border: 1px solid #A26C3D;
+  border-radius: 10px;
+  padding: 0 8px;
+  line-height: 24px;
+  display: inline-block;
+  margin-right: 12px;
+}
+
+.info {
+  font-style: italic;
+  opacity: .7;
+  font-size: 12px;
+}
 </style>
