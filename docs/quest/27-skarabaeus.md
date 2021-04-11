@@ -9,7 +9,6 @@ permalink: /skarabaeus
 
 ## Pre
 - Auf Spürimpuls für Skarabäen bei Farascha achten (siehe Anmerkungen unten)
-- Bei Rückkehr: Exekutionsszene mit Sahar von einem Kollaborateur
 
 ## Background: Rengaru
 Rengaru ist ein Zwerg (65 J), der erst spät sein Ingenium entdeckt hat (bei Zwergen äußert selten). Daraufhin war er sehr erfolgreich und stand bei großen Herrschern im Dienst. Er bereiste die Welt und sammelte magische Artefakte. Er wurde nach Luno berufen, um dort die Universität zu leiten (30 J).
@@ -107,8 +106,13 @@ Die alte Mine liegt einen Stunde vom Rebellenlager entfernt an einem Mittelgebir
 #### 9: Basiliskenhöhle
 - Farascha merkt, dass die Käfer in der Nähe sind, direkt gerade aus
 - Versteinerte Ratten
+- Erzader und Iridiumader
 - Im Kot der Basilisken lebt der Skarabäus
 - Schatz: 30 kleine Iridiumbrocken für Bolzen (15)/Kugeln(30), großer Iridiumbrocken (100 Bolzen oder besonderes Schwert)
+- Basilisk bekämpfen: Ausräuchern, Mit Spiegeln blenden 50% Chance auf 1 Runde paralysiert
+  - Versteinerungsblick: Bei Hinschauen MS10 (Intelligenz, Natur)
+  - Osha bietet seine Hilfe an 
+    - Osha: ❤️ 36 / Initiative 2 / Kampfbonus 4 / 🛡️ 7 / 🗡️ 1 / SG 5.1 / Schatz 4 GF (D) / Hammer
 
 ## Ort: Rebellencamp
 - Anführerin (Sahar) der "Kinder der Nacht"

@@ -27,6 +27,7 @@ permalink: /quests
 ### Elfons
 - Mehr Mondstaub konsumieren
 - Von Skeletten wegen Münzen verfolgt werden
+- Einen magischen Elfenbogen
 
 ### Lasagne
 - Leute hintergehen
