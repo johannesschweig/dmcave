@@ -5,9 +5,9 @@ permalink: /quests
 
 # Charakterquests
 ## Gruppe
-- Herausfinden, ob das Silberamulett magisch ist
-  - Ja, es bietet Schutz
-- Den Skarabäus finden (von Rengaru)
+- [x] Herausfinden, ob das Silberamulett magisch ist
+  - Es schützt seinen Träger vor einem Todesstoß
+- [x] Den Skarabäus finden (von Rengaru)
 - Rausfinden, wer Koreander getötet hat (von Dal)
 - Friedhelm aus dem Gefängnis befreien (von Marlies)
 - Von wem ist die einzelne Sandale? (von Stadtwache)
@@ -17,9 +17,11 @@ permalink: /quests
 - Ronan verhauen/töten
 - ungewöhnliche Reittiere/Rodeo
 - Trophäenjäger
+- Varustreu, Wolf als Tier des Gottes
 
 ### Farascha
 - Einen Tierfreund finden (Rotkehlchen)
+- Schamanin mit weißem Wolf als Patronus
 - [x] Date mit Harod (20 Uhr)
 - [x] Harods Brief an die Rebellen liefern
 - [ ] eine störische Ziege finden (Witcherquestline)

@@ -6,14 +6,7 @@ permalink: /lothor
 # Jagd auf Lothor
 
 ## Pre
-- SCs haben ab und zu sehr starke Wahrnehmungen von den Pilzen
-- Bei Rückkehr:
-  - Exekutionsszene mit Sahar von einem Kollaborateur
-    - "Wir alle können nur überleben, wenn wir uns an die Regeln halten. Du hast das nicht getan. Du hast uns verraten. Wir haben gute Leute deinetwegen verloren. Jeder hier weiß, wie der Schwur ist, den man bei Beitritt ablegt. Aschu Alar."
-  - Sahar spricht nicht mehr mit den Elfen
-  - Belohnung: Oshar verkauft euch normale Rüstungen. Ihr seid unsere Gäste im Lager.
-  - Gerüchte von Überfällen auf Händler im Norden (Orks, Banditen): "Ihr kommt doch vom Norden?"
-- Marlies ist gestern wieder zurückgegangen
+- Sahar kann Botschaften an Herta schicken, um den SCs Aufgaben zu geben
 
 ## Background: Lothor
 - Gnom

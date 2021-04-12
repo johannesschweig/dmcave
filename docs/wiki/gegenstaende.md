@@ -1,5 +1,5 @@
 ---
-title:  "Gegenstände 👀"
+title:  "Gegenstände"
 permalink: /gegenstaende
 ---
 

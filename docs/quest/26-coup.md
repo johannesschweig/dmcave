@@ -54,8 +54,9 @@ permalink: /coup
 - Rebellen unter Sahar
   - "Wir waren es nicht, sind aber auch nicht unglücklich darüber."
   - Sahar (= vor dem Morgengrauen)
-    - Vorsitzende der Rebellen (arab. Nacht ليل "layl" vs. Tag يوم "yawn")
+    - Vorsitzende der Rebellen (arab. Nacht ليل "layl" vs. Tag يوم "yawn") "Kinder der Nacht"
     - Mitte 50, schwarze Kleidung, Kopftuch
+    - Gravierte Dolche für Kämpfer "Die Nacht ist lang und das Licht ist wenig."
     - Stats ❤️ 24 / Initiative 0 / Kampfbonus 2 / 🛡️ 6 / 🗡️ -1 / Magiepunkte 50 / Spruchliste 6: Beschwörung, Bannung, Beherrschung / Gezielte Sprüche 1 / SG 8 / Schatz E Saphir
     - Wachen stark gepanzert, Diener, mit Säbel und Schild SG 4 1 draußen, 2 Vorraum, 3 Innenraum, 1 Hinterzimmer
       - ❤️ 32 / Initiative 1 / Kampfbonus 5 / 🛡️ 7 / 🗡️ 1 / SG 5 / Schatz C-D 1-10GF Dao-Säbel Schild
