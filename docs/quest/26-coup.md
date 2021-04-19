@@ -35,7 +35,10 @@ permalink: /coup
     - alte Sünden (irre Kampfpriester) sollten verziehen werden
     - Diener des Windes sind Bürokraten, reden zu viel und sind viel zu lasch
     - Koreander (tot)
-    - Ganon: langjähriger Freund. Rache, Rache, jetzt.
+    - Ganon:
+      - Nummer zwei bei den Dienern des Steins
+      - Leiter der Kampfpriester
+      - langjähriger Freund. Rache, Rache, jetzt.
       - Kann es nicht glauben. Koreander war ein Mann des Wortes und der Tat. Hofft Meera tritt nicht Tormunds Nachfolge an. Das Varusfest ist nicht mehr das, was es war. Alle Leute sind nur voll mit Drogen gepumpt. König ist schwach und versucht seine Position zu sichern.
     - Edmund: Diener von Koreander. Verstört. In der Oberstadt.
     - Myla: Bi-curious langsame Heilerin

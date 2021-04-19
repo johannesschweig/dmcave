@@ -14,6 +14,7 @@ permalink: /arena
   - Arenameister: Larius, herzlich, laut, kräftig, derb, ehemaliger Türsteher, "Eishockey-Typ", Narben und fehlende Zähne
   - Arenawächter: Überwachen die Kämpfe und koordinieren die Zulassung
   - Arzt Garwick
+  - Arzthelferin Elia
 
 ## Wettkampf
 - Arenameister mit Liste der Disziplinen

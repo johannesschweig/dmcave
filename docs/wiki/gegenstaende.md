@@ -111,7 +111,7 @@ permalink: /gegenstaende
 | Mäusedorn | Selten | Wirkt stark abführend in zerriebener Form |
 | Wundklee | Häufig | Erhöht bei Anwendung die natürliche Regeneration des Körpers |
 | Milchwurz | Häufig | Erhöht bei Anwendung die natürliche Regeneration des Körpers |
-
+| Skorpiongift | Selten | Starker Giftschaden (1/3 TP über den Tag); siehe [Oase](/oase) |
 Kosten:
 - Häufig: 1 KL
 - Mittel: 1 TT
