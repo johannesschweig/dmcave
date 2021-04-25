@@ -53,8 +53,8 @@ Der Elf hat einen Hund.
 Cider wird im grünen Haus getrunken.
 Der Ork trinkt Tee.
 Das grüne Haus ist direkt rechts vom weißen Haus.
-Der Bewohner mit Felgel hält Katzen als Haustiere.
-Ein Kurzschwer liegt im gelben Haus geraucht.
+Der Bewohner mit Flegel hält Katzen als Haustiere.
+Ein Kurzschwert liegt im gelben Haus.
 Milch wird im mittleren Haus getrunken.
 Der Gnom wohnt im ersten Haus.
 Der Bewohner, der ein Langschwert hat, wohnt neben dem Bewohner mit dem Fuchs.
@@ -148,3 +148,4 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
     - Mehr Ausrüstunggegenstände/Waffen
 - Anknüpfungspunkte:
     - Mondstaubdealer in Leet
+- Dauer: Soloabenteuer mit Stephanie in 3h (exkl. Rätsel)

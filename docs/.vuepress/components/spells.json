@@ -149,7 +149,7 @@
     {
       "rang": 9,
       "spruch": "Belebung",
-      "beschreibung": "Mittels dieser Formung kann der Former einen Gegenstand vorübergehend beleben. Leichen gelten als Gegenstände und können so ebenfalls belebt werden (sie sind dann Untot}. Die Stufe des Untaten kann bei der Belebung nicht die Stufe übersteigen, die der Tote zu Lebzeiten kurz vor dem Zeitpunkt seines Todes hatte.  (Eine Ausnahme ist über die Erweiterung des Spruchs möglich.} Bei anderen Gegenständen erhält das so geschaffene Konstrukt die Stufe aus der Formung. Belebtes folgt nicht immer dem Wort des Schöpfers...",
+      "beschreibung": "Mittels dieser Formung kann der Former einen Gegenstand vorübergehend beleben. Leichen gelten als Gegenstände und können so ebenfalls belebt werden (sie sind dann Untot). Die Stufe des Untoten kann bei der Belebung nicht die Stufe übersteigen, die der Tote zu Lebzeiten kurz vor dem Zeitpunkt seines Todes hatte.  (Eine Ausnahme ist über die Erweiterung des Spruchs möglich.} Bei anderen Gegenständen erhält das so geschaffene Konstrukt die Stufe aus der Formung. Belebtes folgt nicht immer dem Wort des Schöpfers...",
       "hinweise": "Berührung,Gezielt",
       "black": [ "Effekt, Gegenstand der Stufe 1", "Dauer, eine Stunde" ],
       "red": [ "Verst, +1 MP: +1 Stufe", "Verst, +1 MP: +1 Stunde", "Erw, +20 MP: Die Stufenbegrenzung eines Untoten aufheben." ]
@@ -448,7 +448,7 @@
       "beschreibung": "Dieses Zeichen markiert einen Ort/Gegenstand dauerhaft mit einem Spruch bis einschließlich Rang 4.",
       "hinweise": "Berührung",
       "black": [ "Effekt, eine Auslösung" ],
-      "red": [ "Verst, +1 MP: eine weitere Aslösung", "Erw, +5 MP: Die Magiepunkte für weitere Auslösungen werden erst bei einer Auslösung bezahlt und die Anzahl wird nicht vorher festgelegt. Das Dauerhafte Zeichen kann aber nur durch ein neues Dauerhaftes Zeichen an derselben Stelle aufgelöst werden." ]
+      "red": [ "Verst, +1 MP: eine weitere Auslösung", "Erw, +5 MP: Die Magiepunkte für weitere Auslösungen werden erst bei einer Auslösung bezahlt und die Anzahl wird nicht vorher festgelegt. Das Dauerhafte Zeichen kann aber nur durch ein neues Dauerhaftes Zeichen an derselben Stelle aufgelöst werden." ]
     },
     {
       "rang": 6,
@@ -483,7 +483,7 @@
     {
       "rang": 10,
       "spruch": "Blitz",
-      "beschreibung": "Dieses Zeichen ruft einen Blitz, der vor dem Einschlag auffächert und ein ganzes Feld krachend übersäht.",
+      "beschreibung": "Dieses Zeichen ruft einen Blitz, der vor dem Einschlag auffächert und ein ganzes Feld krachend übersät.",
       "hinweise": "Sichtweite, Gezielt",
       "black": [ "Effekt, 3m²", "Effekt, Effekt, Schaden entsprechend dem Angriff plus einen Würfel Bonusschaden", "Reichweite, Sichtlinie" ],
       "red": [ "Verst, +10 MP: +3m²", "Verst, +5 MP: +1 Würfel Bonusschaden (maximal +5 Würfel)" ]
@@ -660,7 +660,7 @@
     {
       "rang": 5,
       "spruch": "Naturgeist",
-      "beschreibung": "Hiermit kann ein Geist der Natur beschworen werden, der dem Schamanen dient. Die Fähigkeiten des Geistes hängen von siner Art ab (der Spielleiter entscheidet).",
+      "beschreibung": "Hiermit kann ein Geist der Natur beschworen werden, der dem Schamanen dient. Die Fähigkeiten des Geistes hängen von seiner Art ab (der Spielleiter entscheidet).",
       "hinweise": "Sichtweite",
       "black": [ "Effekt, Stufe 1 Naturgeist", "Dauer, eine Stunde", "Reichweite, Sichtweite" ],
       "red": [ "Verst, +1 MP: +1 Stunde (max. Stufe ist die Hälfte der des Schamanen)", "Verst, +1 MP: +1 Stunde" ]
