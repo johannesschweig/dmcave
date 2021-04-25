@@ -17,14 +17,14 @@ permalink: /verfluchte-haus
 
 ## Ablauf
 ### Anschlagsbrett
-- Die Helden finden auf dem Anschlagsbrett vor dem Brandkessel folgende Nachrichten (aber koennen sie sie auch lesen?):
+- Die Helden finden auf dem Anschlagsbrett vor dem Brandkessel folgende Nachrichten (aber können sie sie auch lesen?):
     - "Leunnand, du bist ein verdammter Halsabschneider! Ich hoffe, die Pest holt deine Brut."
-    - "Geisterjaeger gesucht - Nichts für schwache Nerven - Große Belohnung - Bei Valerius im Brandkessel melden"
+    - "Geisterjäger gesucht - Nichts für schwache Nerven - Große Belohnung - Bei Valerius im Brandkessel melden"
     - "Neues Wundermittel gegen Schlafstörungen: Die magischen Tannenzapfen von Bokter. Einfach in die Ohren stecken und ihr schlaft wie kleine Kinder. Heute nur unglaubliche 2KL. Meldet euch bei Bokter"
 
-### Gespraech mit Valerius
-- "Ja, in der Tat, ich habe das ausgehngt. Ich habe diese Huette letzten Sommer als moeglichen Alterssitz erworben. Aber als ich eine Nacht dort geschlafen habe, schluchzte und wimmerte es fürchterlichst aus dem alten Brunnen. Ich habe versucht ihn abzudecken, aber die Dorfbewohner meinen das Haus sei schon seit Jahren verflucht. Ich habe schon alles versucht, sogar schon mehrere Dutzend von Bokters Tannenzapfen in den Brunnen geworfen, es hat alles nichts geholfen."
-- Feilschen (20GF): 8 + 3 (Rang 3 Haendler) = 11 / Je Erfolg +5%
+### Gespräch mit Valerius
+- "Ja, in der Tat, ich habe das ausgehngt. Ich habe diese Hütte letzten Sommer als möglichen Alterssitz erworben. Aber als ich eine Nacht dort geschlafen habe, schluchzte und wimmerte es fürchterlichst aus dem alten Brunnen. Ich habe versucht ihn abzudecken, aber die Dorfbewohner meinen das Haus sei schon seit Jahren verflucht. Ich habe schon alles versucht, sogar schon mehrere Dutzend von Bokters Tannenzapfen in den Brunnen geworfen, es hat alles nichts geholfen."
+- Feilschen (20GF): 8 + 3 (Rang 3 Händler) = 11 / Je Erfolg +5%
 
 ### In Leet
 - MS 8 Rausfinden wer etwas von geisterjagd versteht bei Leunnand oder anderen (Flanna)
@@ -33,7 +33,7 @@ permalink: /verfluchte-haus
     - Ernesto MS10 Ernesto gesteht die Geschichte und gibt eine Puppe mit
 
 ### Flanna
-- "Euch habe ich ja noch nie hier gesehen. Braucht ihr Salben fuer mehr Bartwuchs oder eine Tinktur gegen Bauchkraempfe?"
+- "Euch habe ich ja noch nie hier gesehen. Braucht ihr Salben für mehr Bartwuchs oder eine Tinktur gegen Bauchkrämpfe?"
 - "Filziger Pestwurz ist gut um Geister aus ihrem Versteck zu locken. Dafür müsst ihr den Pestwurz in der Nähe des Geistes verbrennen. Allerdings ist er sehr selten. Einen getrockneten habe ich noch da. Ihr könnt aber auch euer Glück im Wald versuchen."
 - MS10 "ich sehe manchmal komische Gestalten da ein-und ausgehen."
 - "Fragt doch mal Bokter wegen Vertreibung von Geistern."
@@ -52,9 +52,9 @@ Der Zwerg wohnt im roten Haus.
 Der Elf hat einen Hund.
 Cider wird im grünen Haus getrunken.
 Der Ork trinkt Tee.
-Das grüne Haus ist direkt rechts vom weißen Haus.
+Das grüne Haus ist direkt links vom weißen Haus.
 Der Bewohner mit Flegel hält Katzen als Haustiere.
-Ein Kurzschwert liegt im gelben Haus.
+Ein Kurzschwert wird im gelben Haus benutzt.
 Milch wird im mittleren Haus getrunken.
 Der Gnom wohnt im ersten Haus.
 Der Bewohner, der ein Langschwert hat, wohnt neben dem Bewohner mit dem Fuchs.
@@ -70,8 +70,10 @@ Getrank: Kaffee=Cider, Tee=Tee, Milch=Milch, O-Saft=Leichtbier, Wasser=Wasser
 Zigaretten: kools=Kurzschwert, ches=langschwert, old-boy=flegel, lucky=armbrust, parliament=bogen
 haustier: fuchs=fuchs, pferd=pferd, hund=hund, schnecken=katze, zebra=troll
 Lsg: Gnom=wasser, Mensch=Troll
+
 | 1           | 2           | 3      | 4      | 5          |
-| gelb        | blau        | rot    | weiß   | grün       |
+| ---         | ---         | ---    | ---    | ---        |
+| gelb        | blau        | rot    | grün   | weiß       |
 | Gnom        | Ork         | Zwerg  | Mensch | Elf        |
 | Wasser      | Tee         | Milch  | Cider  | Leichtbier |
 | Kurzschwert | Langschwert | Flegel | Bogen  | Armbrust   |
@@ -85,7 +87,7 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
     - MS10 die Schrift zu entziffern
 - Haus
     - Tür mit beschädigtem Schloss
-    - MS 12: Brief in Ecke mit altem Bettgestell "12. Juli vor 11 Jahren: Matteo ist ein Idiot, heute hat er mich schon wieder in der Schule gefragt, wo denn mein Vater sei. Ich habe ihm schon 100 mal gesagt, dass er viel unterwegs ist, aber das scheint keiner mehr zu glauben. Mama konnte mich ein wenig troesten. In letzter Zeit ist ihre Krankheit leider wieder schlimmer geworden."
+    - MS 12: Brief in Ecke mit altem Bettgestell "12. Juli vor 11 Jahren: Matteo ist ein Idiot, heute hat er mich schon wieder in der Schule gefragt, wo denn mein Vater sei. Ich habe ihm schon 100 mal gesagt, dass er viel unterwegs ist, aber das scheint keiner mehr zu glauben. Mama konnte mich ein wenig trösten. In letzter Zeit ist ihre Krankheit leider wieder schlimmer geworden."
     - Kochnische mit Herd, Mondstaubresten, alte Bierflaschen
     - Alte Truhe, neues Schloss MS 12 mit 10g Mondstaub und 30KL
 - Filziger Pestwurz in 3 km Entfernung in einem Erdloch
@@ -98,7 +100,7 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
 - MS 12: Die beiden haben gerötete Augen und wirken hektisch.
 
 ### Vertreiben des Geistes
-- Der Geist des jungen Maedchens kann vertrieben (Bedingungen 2-3) oder erlöst werden (Zusätzlich Bedinung 1).
+- Der Geist des jungen Mädchens kann vertrieben (Bedingungen 2-3) oder erlöst werden (Zusätzlich Bedinung 1).
     - 1. Einen persönlichen Gegenstand beerdigen (Brief, Puppe von Ernesto)
     - 2. Mit Pestwurz den Geist anlocken
     - 3. Töten des Geistes
@@ -130,8 +132,8 @@ Im Buch "Erfolgreiche Geisterjagd: Alles Wissenswerte für den geplagen Heimbesi
 - ♥ 6 / INI 0 / KB 2 / 🛡 5 / 🗡 -1 / MP 0 / Spruchl 0 / SG1 / 15 KL
 
 ### Geist
-- Geist des Maedchens
-- ♥ 20 / INI 0 / KB 2 / 🛡 8 / 🗡 -1 / MP 0 / Spruchl 0 / SG4 Koerperlos Angst 8
+- Geist des Mädchens
+- ♥ 20 / INI 0 / KB 2 / 🛡 8 / 🗡 -1 / MP 0 / Spruchl 0 / SG4 Körperlos Angst 8
 
 ## Reflektion
 - Rätsel hat 1h gedauert, war aber der Schwierigkeit angemessen

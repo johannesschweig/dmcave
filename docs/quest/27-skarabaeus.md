@@ -9,6 +9,14 @@ permalink: /skarabaeus
 
 ## Pre
 - Auf Spürimpuls für Skarabäen bei Farascha achten (siehe Anmerkungen unten)
+- SCs haben ab und zu sehr starke Wahrnehmungen von den Pilzen
+- Bei Rückkehr:
+  - Exekutionsszene mit Sahar von einem Kollaborateur
+    - "Wir alle können nur überleben, wenn wir uns an die Regeln halten. Du hast das nicht getan. Du hast uns verraten. Wir haben gute Leute deinetwegen verloren. Jeder hier weiß, wie der Schwur ist, den man bei Beitritt ablegt. Aschu Alar."
+  - Sahar spricht nicht mehr mit den Elfen
+  - Belohnung: Oshar verkauft euch normale Rüstungen. Ihr seid unsere Gäste im Lager.
+  - Gerüchte von Überfällen auf Händler im Norden (Orks, Banditen): "Ihr kommt doch vom Norden?"
+- Marlies ist gestern wieder zurückgegangen
 
 ## Background: Rengaru
 Rengaru ist ein Zwerg (65 J), der erst spät sein Ingenium entdeckt hat (bei Zwergen äußert selten). Daraufhin war er sehr erfolgreich und stand bei großen Herrschern im Dienst. Er bereiste die Welt und sammelte magische Artefakte. Er wurde nach Luno berufen, um dort die Universität zu leiten (30 J).
@@ -81,10 +89,10 @@ Die alte Mine liegt einen Stunde vom Rebellenlager entfernt an einem Mittelgebir
 
 ### II. Ebene
 #### 4: Mittelraum
-- Toter Rebell #1 (Piercer), halb aufgegessen
+- Toter Rebell #1 Berno (Piercer), halb aufgegessen
 - Farascha merkt, dass die Käfer in der Nähe sind, eher links unten
 #### 5: Ameisenbau
-- Toter Rebell #2
+- Toter Rebell #2 Arndt
 - Zahnrad #2
 - Erzader, relativ frische Luft
 - 2 Riesenameisen verteidigen (warten oder kämpfen)
@@ -116,12 +124,15 @@ Die alte Mine liegt einen Stunde vom Rebellenlager entfernt an einem Mittelgebir
 
 ## Ort: Rebellencamp
 - Anführerin (Sahar) der "Kinder der Nacht"
+    - Belohnung: 15GF für Eisenerzader, 30GF Iridiumader, 5GF Kohleader, 10GF Basilisk
 - Ausrüster (Osha)
+    - 36/2/4/7/S1 Hammer Kettenhemd
 - Rauchzelt
     - Buddler Erol
     - Wirt (Gerrin)
 - Schmiede
 - Schlote (Rennöfen)
+- Schmuckmacherin, alte Frau
 
 ## Hintergrundwissen: Bergbau
 - Knappenvereine (Kranken- und Sterbekassen)

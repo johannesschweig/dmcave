@@ -6,14 +6,13 @@ permalink: /lothor
 # Jagd auf Lothor
 
 ## Pre
-- SCs haben ab und zu sehr starke Wahrnehmungen von den Pilzen
-- Bei Rückkehr:
-  - Exekutionsszene mit Sahar von einem Kollaborateur
-    - "Wir alle können nur überleben, wenn wir uns an die Regeln halten. Du hast das nicht getan. Du hast uns verraten. Wir haben gute Leute deinetwegen verloren. Jeder hier weiß, wie der Schwur ist, den man bei Beitritt ablegt. Aschu Alar."
-  - Sahar spricht nicht mehr mit den Elfen
-  - Belohnung: Oshar verkauft euch normale Rüstungen. Ihr seid unsere Gäste im Lager.
-  - Gerüchte von Überfällen auf Händler im Norden (Orks, Banditen): "Ihr kommt doch vom Norden?"
-- Marlies ist gestern wieder zurückgegangen
+- Sahar kann Botschaften an Herta schicken, um den SCs Aufgaben zu geben
+- Dal: SCs haben nach einer Audienz bei Meera gefragt
+- 4/24 Skelette sind erledigt. Die Restlichen warten auf ihre Chance
+- Ende: Vormittags beim Kerker
+- Farascha ist mit Harod für Morgen Abend verabredet (aufgearbeiteter Dolch zurück)
+- [ ] Kampf mit Lothor planen
+- [ ] Gespräch mit Meera planen
 
 ## Background: Lothor
 - Gnom
@@ -24,15 +23,21 @@ permalink: /lothor
 - Von Meera in einem Grab aufgegriffen, dann verknackt
 - Bei Verlegung "geflüchtet". Meera lies den Knastwagen bei seiner Verlegung überfallen
 - Hat Carla mit Wettschulden erpresst als alte Dame
+- Hat sich als alte Frau Gertrude ins Lazarett eingeschlichen und nachts die drei verbliebenen Magiestudierenden mit Gift getö†et
 
 ## Ort: Knast
 - Knaster Brom
+  - alter Mann am Empfang
+- Schwarzer Flügel
+  - Hier werden Schwarzmagier eingeknastet
+  - Die Zellen sind magisch und entziehen den Eingesessenen die MP. 
 - Boran
   - Bekannter von Lothor
   - Kennt das Artefakt und hat noch eine Rechnung mit ihm offen (gestohlenes Artefakt o.ä.)
-  - Im Schwarzen Flügel: Die Zellen sind magisch und entziehen den Eingesessenen die MP. 
-- Friedhelm
-  - mit seiner Laute
+- Friedhelm & Marlies
+  - Friedhelm mit seiner Laute
+- Lutz
+  - Quest: [Detektei](/detektei)
 
 ## Quest: Lothor anlocken
 - Verbreiten, dass man ein Artefakt besitzt

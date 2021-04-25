@@ -1,5 +1,5 @@
 ---
-title:  "Homebrew 👀"
+title:  "Homebrew"
 permalink: /homebrew
 ---
 
