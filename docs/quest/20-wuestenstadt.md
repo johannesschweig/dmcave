@@ -22,6 +22,8 @@ permalink: /wuestenstadt
   - Die SCs werde gebeten den Mord an Koreander aufzuklären
 - Kapitel 7: [Der Skarabäus](/skarabaeus)
   - Ein seltener Käfer muss in einer Mine gefunden werden
+- Kapitel 8: [Jagd auf Lothor](/lothor)
+  - Der Mörder der Arena wird gestellt
 
 ## Backstory
 - In Luno wird alle 4 Jahre ein Fest zu Ehren des Gottes Varus (Krieg, Wettkampf) gefeiert. Das Fest dauert 7 Tage und schon eine Woche vorher finden sich Gaukler, Händler und Schausteller in Luno ein um ihre Waren an Schaulustige zu verkaufen.

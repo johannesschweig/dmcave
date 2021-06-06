@@ -72,3 +72,23 @@ permalink: /ideas
 - Schwimmen 
 - Wissen: 
 - Wahrnehmung: Gegner/Wachen erkennen
+
+## Quirks
+- Überzogener Heldenmut: +1 bei Kampfinitiation, -1 wenn nicht
+- Mama war nie da: Du kannst nicht mit Frauen reden (-2 MS). Männer hingegen +2 Einschüchterung
+- Multitox: Immer leicht einen sitzen. +1 CH pro Bier/Droge/Stunde. -1 CH, wenn nichts komsumiert wurde in der letzten Stunde
+- Kneipenprügler: +2 auf faustlosten Kamp. Du darfst keine Waffer tragen.
+- "Der war so groß": Du musst immer übertreiben +1 CH. -1 CH wenn du erwischt wirst
+- Gehobene Mittelschicht/Von edler Abstammung: +1 CH bei Bürgertum + Adel, -1 CH bei einfachem Volk
+- Oberschenkelmodel: Du darfst keine Hose tragen (Unterhose schon). Du hast sehr schön gebräunte Beine.
+- Mein Freund, der Baum: Natur ist dir wichtig. Du hast eine +1 gesteigerte Wahrnehmung außerhalb von Städten.
+- Schwerhörig: Du redest sehr laut. +1 auf Einschüchterung
+- Graue Maus/Mäuserich: Die Leute scheinen dich nicht wahrzunehmen. List +1, CH -1
+- Heilkundig: +1 auf Heilkunde. Du darfst keine fleischliche Nahrung essen und musst es auch allen immer sagen.
+- Bücherwurm: +1 INT, -1 ST
+- Rauhes Klima: +1 KO, -1 INT
+
+## Ideensammlung
+- Siegfried/: Schwertleite, Bärentreiber, Feuerfresser, Schwert Balmung, Drachenblut baden, Tarnhaut, Beutelschneider (Diebe), Schandgeige (Fessel für den Marktplatz), Schlitzohr = Ohr ausreißen, um freizukommen
+- Stanisic: Radovan Bunda: Macher, Wetter, "Erst habe ich in Schrott investiert, aber dann war alles Schrott, dann in Medikamente."
+- Death of Yugoslavia: Borisav Jovic: Politisch geschickt, skrupellos, unterdrückte Minderheiten, Konflikt
