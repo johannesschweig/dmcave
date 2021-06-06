@@ -5,6 +5,8 @@ permalink: /lothor
 
 # Jagd auf Lothor
 
+![Damenhaus](../assets/meera.png)
+
 ## Pre
 - Sahar kann Botschaften an Herta schicken, um den SCs Aufgaben zu geben
 - Dal: SCs haben nach einer Audienz bei Meera gefragt
@@ -25,15 +27,15 @@ permalink: /lothor
     - Magisches Feuer
     - Beschwörung (Imp 4, Gremlin 6)
     - Bindung (im Quartier, in Glasphiolen 4)
-    - Imp 4: Fliegend, lästig, Krallen; 20/0/2/7/2/ SG4
-    - Gremlin 6: Laufend, Stark; 30/0/4/8/2/ SG6
+    - Schwarzer Goblin (beschwört): ❤️ 8 / ini 0 / kb 2 / 🛡️ 6 / 🗡️ -2 / SG 2 / Schatz 1 KL (A) / Dolch oder Schleuder
+    - Imp 4: Fliegend, lästig, Krallen; ️❤️ 20 / ini 0 / kb 2 / R 7 / S 2/ SG 4
+    - Gremlin 6: Laufend, Stark; ❤️ 30 / ini 0 / kb 4 / R 8 / S 2 / SG 6
   - Weiße Magie 4
     - Linderung
     - Schutz
   - ❤️ 40 / ini 0 / KB 3 / 🛡️ 6 / 🗡️ -1 / MP 66 / Schwarz 8 / Weiß 4 / SG 10
 - Gegenstände
   - Schwarzer Zauberstab des Goblinbeschwörers 12/30
-
 - Von Meera in einem Grab aufgegriffen, dann verknackt
 - Bei Verlegung "geflüchtet". Meera lies den Knastwagen bei seiner Verlegung überfallen
 - Hat Carla mit Wettschulden erpresst als alte Dame
@@ -58,8 +60,32 @@ permalink: /lothor
 - Lothor wird versuchen zu kommen, um es sich zu holen
 - Verbindung zu Meera nur feststellbar, wenn die SC ihm folgen und ihn nicht sofort abmurksen
 
-## Ort: Taverne: Zum goldenen Handschuh
+## Ort: Taverne Zum goldenen Handschuh
 - Wirt: Thorald
+
+## Ort: Kanalisation
+- Offene Tür in Seitenstraße in der Nähe der Taverne ist Eingang
+- 1.8m hoch; oben aberundet; links Grube mit Abwasser, rechts schmaler Steg, breit genug für eine Person
+- Ab und zu Löcher von oben, aus denen Abwasser reinfließt
+- Begegnungen: Ratten, verfolgenden Skelette (20/24)
+  - Skelett (stark): ❤️ 20 / Initiative 1 / Kampfbonus 4 / 🛡️ 6 / 🗡️ 1 / Zauberresistenz 1 / SG 4 / 1 TT
+
+## Ort: Meeras Damenhaus
+- in der Oberstadt
+- Keller:
+  - Weinkeller
+  - Lager: Holz, Lebensmittel (Kartoffeln)
+  - Lothors Versteck
+- EG:
+  - Garten mit Gärtner
+  - Eingang von der Straße
+    - 2 Wachpersonen
+  - Salon
+  - Küche
+    - Küchenhilfe
+  - Gesinde
+- 1.OG: Schlafzimmer, Arbeitszimmer, Gästezimmer, Zimmer
+  - Meera
 
 ## Lasagnes Verhaftung
 - Valerius in Sänfte mit 4 Trägern und 4 Wachen (=Stadtwache); Stadtwachen kommen schnell hinzu, da neben der Kaserne
